@@ -5,7 +5,7 @@ url: http://yamazakim.github.io/test_warren2016
 exclude: ['vendor']
 safe: true
 highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 paginate: 2
 paginate_path: "/blog/page:num/"
 permalink: pretty
