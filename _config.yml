@@ -1,6 +1,6 @@
 name: Warren Workshop VI 2016
 description: Warren Workshop VI 2016
-url: http://warrenworkshop2016.glycoinfo.org
+url:http://yamazakim.github.io/test_warren2016
 #exclude: [deprecated]
 exclude: ['vendor']
 safe: true
