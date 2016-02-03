@@ -5,10 +5,10 @@ layout: default
 <!-- MAIN CONTENT -->
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
-    <h3 id="location">Location</h3>
+    <h3 id="location">Registration form for Warren Workshop VI 2016</h3>
     <hr>
 <div class="divLayoutContentMain">	
-		<p>Please fill in the form below and click the <strong>Submit</strong> button.<br>
+		<p>Please fill in the form below and click the <strong>Next</strong> button.<br>
 		Fields with an asterisk are required.
 		</p>
 		<div class="form">
