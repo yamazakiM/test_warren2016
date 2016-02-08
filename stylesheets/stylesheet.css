@@ -644,6 +644,11 @@ table#navigation-table, tr, td{
   border-style:none;
 }
 
+.row input-dietaryRestrictions{
+  padding-left:5px;
+}
+
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
