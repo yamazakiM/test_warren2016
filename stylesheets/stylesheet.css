@@ -640,7 +640,7 @@ img.contact{
   list-style-type:none;
 }
 
-table#navigation-table{
+table#navigation-table, tr, td{
   border-style:none;
 }
 
