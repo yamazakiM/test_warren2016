@@ -626,8 +626,14 @@ img.contact{
   text-shadow:1px 1px 6px #111;
   font-weight:100;
 }
-.register, .submit > a:hover{
+.register > a:hover{
   text-decoration:none;
+  color:blue;
+}
+
+.submit > a:hover{
+  text-decoration:none;
+  color:blue;
 }
 
 /*******************************************************************************
