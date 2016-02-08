@@ -627,6 +627,10 @@ img.contact{
   font-weight:100;
 }
 
+.button_register, .button_submit > a:hover{
+    text-decoration:none;
+}
+
 
 /*******************************************************************************
 Small Device Styles
