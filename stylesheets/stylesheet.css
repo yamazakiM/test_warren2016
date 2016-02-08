@@ -626,7 +626,7 @@ img.contact{
   text-shadow:1px 1px 6px #111;
   font-weight:100;
 }
-.button_register, .button_submit > a:hover{
+.register, .submit > a:hover{
   text-decoration:none;
 }
 
