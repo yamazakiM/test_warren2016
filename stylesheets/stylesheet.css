@@ -653,7 +653,9 @@ table#navigation-table, tr, td{
   padding-top:10px;
 }
 
-
+span.asterisk{
+  color:#dc143c;
+}
 
 
 /*******************************************************************************
