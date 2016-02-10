@@ -65,11 +65,11 @@ layout: default
 				</div>
 				<div class="dietaryRestrictions_title">
 					<label for="dietaryRestrictions">
-						If you are attending Workshop Dinner and have dietary restrictions, please write down details (e.g. wheat, milk.)
+						If you are attending Workshop Dinner and have dietary restrictions, please write down details (e.g. wheat, milk)
 					</label>
 				</div>
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<input id="dietaryRestrictions" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="dietaryRestrictions"　required="required" size="30">
+					<input id="dietaryRestrictions" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="dietaryRestrictions"　required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -81,7 +81,7 @@ layout: default
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="last_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="last_name"　required="required" size="30">
+					<input id="last_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="last_name"　required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -89,11 +89,23 @@ layout: default
 			<div class="row input-first_name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="first_name">
-						3. First Name <span class="asterisk">*</span>
+						3. Middle Name
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="first_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="first_name"　required="required" size="30">
+					<input id="first_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="first_name"　required="required" size="50">
+				</div>
+			</div>	
+			<br>
+			
+			<div class="row input-first_name input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="first_name">
+						4. First Name <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="first_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="first_name"　required="required" size="50">
 				</div>
 			</div>	
 			<br>
@@ -101,7 +113,7 @@ layout: default
 			<div class="row input-occupation input-user-field">
 				<div class="col-sm-9 col-xs-12">
 					<label for="occupation">
-						4. Occupation <span class="asterisk">*</span>
+						5. Occupation <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12">
@@ -114,20 +126,33 @@ layout: default
 						</option>
 						<option>
 							Corporate Reseracher
-						</option>	
+						</option>
+						<option>
+							Other
+						</option>
 					</select>	
 				</div>
+				<div class="occupation_detail">
+					<label for="occupation_detail">
+						If you selected "Other", please write down details
+					</label>
+				</div>
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<input id="occupation_detail" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="occupation_detail" size="50">
+				</div>
+			</div>
+			<br>
 			</div>	
 			<br>
 
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="affiliation">
-						5. Affiliation <span class="asterisk">*</span>
+						6. Affiliation <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="affiliation" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="affiliation"　required="required" size="30">
+					<input id="affiliation" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="affiliation"　required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -135,12 +160,12 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="business_address">
-						6. Business Address <span class="asterisk">*</span>
+						7. Business Address <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address" required="required" size="30"><br>
-					<input id="business_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address" size="30">
+					<input id="business_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address" required="required" size="50"><br>
+					<input id="business_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address" size="50">
 				</div>
 			</div>
 			<br>
@@ -148,11 +173,11 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="business_address_city">
-						7. City <span class="asterisk">*</span>
+						8. City <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_city" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_city" required="required" size="30">
+					<input id="business_address_city" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_city" required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -160,11 +185,11 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="business_address_state">
-						8. State / Province <span class="asterisk">*</span>
+						9. State / Province <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_state" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_state" required="required" size="30">
+					<input id="business_address_state" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_state" required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -172,11 +197,11 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="business_address_country">
-						9. Country <span class="asterisk">*</span>
+						10. Country <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_country" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_country" required="required" size="30">
+					<input id="business_address_country" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_country" required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -185,11 +210,11 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="business_address_postal">
-						10. Postal / Zip Code <span class="asterisk">*</span>
+						11. Postal / Zip Code <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_postal" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_postal" size="30">
+					<input id="business_address_postal" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_postal" size="50">
 				</div>
 			</div>
 			<br>
@@ -198,11 +223,11 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="phone_number">
-						11. Phone Number <span class="asterisk">*</span>
+						12. Phone Number <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="phone_number" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="phone_number" required="required" size="30">
+					<input id="phone_number" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="phone_number" required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -211,11 +236,11 @@ layout: default
 			<div class="row input-last name input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					<label for="email_address">
-						12. E-mail Address <span class="asterisk">*</span> 
+						13. E-mail Address <span class="asterisk">*</span> 
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="email_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="email_address" required="required" size="30">
+					<input id="email_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="email_address" required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -223,16 +248,16 @@ layout: default
 			<div class="row input-occupation input-user-field">
 				<div class="col-sm-9 col-xs-12">
 					<label for="visa">
-						13. Do you need "Letter of Guarantee" to acquire a visa to enter Japan? <span class="asterisk">*</span>
+						14. Do you need "Letter of Guarantee" to acquire a visa to enter Japan? <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12">
 					<select id="occupation" class="occupation-select form-control col-sm-8 col-xs-12" name="occupation"required="required">
 						<option>
-							Yes, I need "Letter of Guarantee."
+							Yes, I need "Letter of Guarantee"
 						</option>	
 						<option>
-							No, I don't need visa.
+							No, I don't need visa
 						</option>
 					</select>	
 				</div>
