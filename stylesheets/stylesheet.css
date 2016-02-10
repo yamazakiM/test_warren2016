@@ -657,6 +657,11 @@ span.asterisk{
   color:#dc143c;
 }
 
+.confirm_email{
+  padding-left:10px;
+  padding-top:10px;
+}
+
 
 /*******************************************************************************
 Small Device Styles
