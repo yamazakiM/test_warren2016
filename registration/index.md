@@ -19,7 +19,7 @@ layout: default
   <ul>
   <li>March 1, 2016 - June 30, 2016</li>
   </ul>   
-  <a href="http://yamazakim.github.io/test_warren2016/registration/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstruct"></a>
+  <a href="http://yamazakim.github.io/test_warren2016/registration/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
 </div>
   <h3>Registration Fee</h3>
   <hr>
