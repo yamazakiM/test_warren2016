@@ -308,6 +308,18 @@ layout: default
 		</table>
 	</div>
  </form>
+ 
+ <form action="https://www.paypal.com/cgi-bin/webscr" method=POST>
+ <input type="hidden" name="cmd" value="_cart">
+ <input type="hidden" name="upload" value="1">
+ <input type="hidden" name="business" value="【PayPalアカウントメールアドレス】">
+ <input type="hidden" name="item_name_1" value="【商品名やサイト名】">
+ <input type="hidden" name="amount_1" value="【決済する金額】">
+ <input type="hidden" name="invoice" value="【オーダー番号など】">
+ <input type="hidden" name="currency_code" value="JPY">
+ <input type="submit" value="PayPalで決済">
+</form>
+ 
  </div>
 </section>
 </div>
