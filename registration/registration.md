@@ -12,10 +12,10 @@ layout: default
 		Fields with an asterisk are required.
 		</p>
 		<div class="form">
-			<form class="em-abstruct-form" action="em-abstruct" method="post" name="abstruct-form" role="form">
+			<form class="em-abstruct-form" action="confirm.md" method="post" name="registration_form" role="form">
 				
 			<div class="row em-abstruct-spaces">
-				<div class="col-sm-3 col-xs-12 clearfix">
+				<div class="attendance clearfix">
 					<ul class="choices" aria-label="1. +Attendance Type" role="group"　required="required"　>
 										<li class="choice-item">
 											<label for="AttendanceType">
