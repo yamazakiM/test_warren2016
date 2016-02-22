@@ -663,6 +663,10 @@ span.asterisk{
   
 }
 
+.button_register, .button_submit > a:hover{
+    text-decoration:none;
+}
+
 
 /*******************************************************************************
 Small Device Styles
