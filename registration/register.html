@@ -12,14 +12,14 @@ layout: default
 		Fields with an asterisk are required.<br>
 		</p>
 		<div class="form">
-			<form class="em-abstruct-form" action="em-abstruct" method="post" name="abstruct-form" role="form">
+			<form class="registrationForm" action="confirm.php" method="post" name="registrationForm" role="form">
 				
 			<div class="row em-abstruct-spaces">
 				<div class="col-sm-3 col-xs-12 clearfix">
 					1. Attendance <span class="asterisk">*</span>
 					<ul class="choices" aria-label="1. +Attendance Type" role="group"　required="required"　>
 										<li class="choice-item">
-											<label for="AttendanceType">
+											<label for="AttendanceType" id="Workshop: August 24, 2016">
 												<span class="choice-item-control">
 													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 24, 2016">
 												</span>	
@@ -30,7 +30,7 @@ layout: default
 										</li>
 
 										<li class="choice-item">
-											<label for="Attendance Type">
+											<label for="Attendance Type" id="Workshop: August 25, 2016">
 												<span class="choice-item-control">
 													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 25, 2016">
 												</span>	
@@ -41,7 +41,7 @@ layout: default
 										</li>
 
 										<li class="choice-item">
-											<label for="Attendance Type">
+											<label for="Attendance Type" id="Workshop: August 26, 2016">
 												<span class="choice-item-control">
 													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 26, 2016">
 												</span>	
@@ -52,7 +52,7 @@ layout: default
 										</li>
 
 										<li class="choice-item">
-											<label for="Attendance Type">
+											<label for="Attendance Type" id="Workshop Dinner: August 24, 2016">
 												<span class="choice-item-control">
 													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 26, 2016">
 												</span>	
@@ -64,7 +64,7 @@ layout: default
 									</ul>	
 				</div>
 				<div class="dietaryRestrictions_title">
-					<label for="dietaryRestrictions">
+					<label for="dietaryRestrictions" id="dietaryRestrictions">
 						If you are attending Workshop Dinner and have dietary restrictions, please write down details (e.g. wheat, milk)
 					</label>
 				</div>
@@ -74,14 +74,14 @@ layout: default
 			</div>
 			<br>
 	<div id="registration_abstruct">
-		<div class="row input-last_name input-user-field">
+		<div class="row inputLastName input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="last_name">
+					<label for="lastName" id="lastName">
 						2. Last Name <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="last_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="last_name"　required="required" size="50">
+					<input id="lastName" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="lastName"　required="required" size="50">
 				</div>
 			</div>
 			<br>
@@ -110,48 +110,48 @@ layout: default
 			</div>	
 			<br>
 			
-			<div class="row input-gender input-user-field">
+			<div class="row inputGender input-user-field">
 				<div class="col-sm-9 col-xs-12">
-					<label for="gender">
+					<label for="gender" id="gender">
 						5. Gender <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12">
 					<select id="gender" class="gender-select form-control col-sm-8 col-xs-12" name="gender"required="required">
-						<option>
+						<option value"male" id="male">
 							Male
 						</option>	
-						<option>
+						<option value"female" id="female">
 							Female
 						</option>
 					</select>	
 				</div>
 				<br>
 
-			<div class="row input-occupation input-user-field">
+			<div class="occupation input-user-field">
 				<div class="col-sm-9 col-xs-12">
-					<label for="occupation">
+					<label for="occupation" id="occupation">
 						6. Occupation <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12">
 					<select id="occupation" class="occupation-select form-control col-sm-8 col-xs-12" name="occupation"　required="required">
-						<option>
+						<option value="student" id="stuent">
 							Student
 						</option>	
-						<option>
+						<option value="academicResearcher" id="academicResearcher">
 							Academic Researcher
 						</option>
-						<option>
+						<option value="corporateResearcher" id="corporateResearcher">
 							Corporate Reseracher
 						</option>
-						<option>
+						<option value="other" id="other">
 							Other
 						</option>
 					</select>	
 				</div>
-				<div class="occupation_detail">
-					<label for="occupation_detail">
+				<div class="occupationDetail">
+					<label for="occupationDetail" id="occupationDetail">
 						If you selected "Other", please write down details
 					</label>
 				</div>
@@ -161,9 +161,9 @@ layout: default
 			</div>	
 			<br>
 
-			<div class="row input-last name input-user-field">
+			<div class="affiliation input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="affiliation">
+					<label for="affiliation" id="affiliation">
 						7. Affiliation <span class="asterisk">*</span>
 					</label>	
 				</div>	
@@ -173,46 +173,46 @@ layout: default
 			</div>
 			<br>
 
-			<div class="row input-last name input-user-field">
+			<div class="businessAddress input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="business_address">
+					<label for="business_address" id="businessAddress">
 						8. Business Address <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address" required="required" size="50"><br>
-					<input id="business_address" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address" size="50">
+					<input id="businessAddress" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="businessAddress" required="required" size="50"><br>
+					<input id="businessAddress" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="businessAddress" size="50">
 				</div>
 			</div>
 			<br>
 
-			<div class="row input-last name input-user-field">
+			<div class="city input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="business_address_city">
+					<label for="city" id="city">
 						9. City <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_city" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_city" required="required" size="50">
+					<input id="city" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="city" required="required" size="50">
 				</div>
 			</div>
 			<br>
 
-			<div class="row input-last name input-user-field">
+			<div class="state input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="business_address_state">
+					<label for="state" id="state">
 						10. State / Province <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_state" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_state" required="required" size="50">
+					<input id="state" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="state" required="required" size="50">
 				</div>
 			</div>
 			<br>
 			
-			<div class="row input-last name input-user-field">
+			<div class="country input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="business_address_country">
+					<label for="country" id="country">
 						11. Country <span class="asterisk">*</span>
 					</label>	
 				</div>	
@@ -223,35 +223,35 @@ layout: default
 			<br>
 
 
-			<div class="row input-last name input-user-field">
+			<div class="postal input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="business_address_postal">
+					<label for="postal" id="postal">
 						12. Postal / Zip Code <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="business_address_postal" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_postal" size="50">
+					<input id="postal" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="postal" size="50">
 				</div>
 			</div>
 			<br>
 
 
-			<div class="row input-last name input-user-field">
+			<div class="phoneNumber input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="phone_number">
+					<label for="phoneNumber" id="phoneNumber">
 						13. Phone Number <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12 clearfix">
-					<input id="phone_number" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="phone_number" required="required" size="50">
+					<input id="phoneNumber" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="phoneNumber" required="required" size="50">
 				</div>
 			</div>
 			<br>
 
 
-			<div class="row input-last name input-user-field">
+			<div class="email input-user-field">
 				<div class="col-sm-3 col-xs-12 clearfix">
-					<label for="email_address">
+					<label for="email" id="email">
 						14. E-mail Address <span class="asterisk">*</span> 
 					</label>	
 				</div>	
@@ -260,26 +260,26 @@ layout: default
 				</div>
 			</div>
 			
-			<div class="confirm_email">
-				<div class="confirm_email_title">
-					<label for="confirm_email_title">
+			<div class="confirmEmail">
+				<div class="confirmEmail">
+					<label for="confirmEmail" id="confirmEmail">
 						 Confirm E-mail Address <span class="asterisk">*</span> 
 					</label>	
 				</div>	
-				<div class="confirm_email_inputBox clearfix">
-					<input id="email_confirmation" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="email_confirmation" required="required" size="50">
+				<div class="confirmEmail clearfix">
+					<input id="confirmEmail" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="confirmEmail" required="required" size="50">
 				</div>
 			</div>
 			<br>
 			
-			<div class="row input-occupation input-user-field">
+			<div class="visa input-user-field">
 				<div class="col-sm-9 col-xs-12">
-					<label for="visa">
+					<label for="visa" id="visa">
 						15. Do you need "Letter of Guarantee" to acquire a visa to enter Japan? <span class="asterisk">*</span>
 					</label>	
 				</div>	
 				<div class="col-sm-9 col-xs-12">
-					<select id="occupation" class="occupation-select form-control col-sm-8 col-xs-12" name="occupation"required="required">
+					<select id="visa" class="visa col-sm-8 col-xs-12" name="visa" required="required">
 						<option>
 							Yes, I need "Letter of Guarantee"
 						</option>	
