@@ -323,4 +323,3 @@ layout: default
  </div>
 </section>
 </div>
-<script src="index.js"></script>
