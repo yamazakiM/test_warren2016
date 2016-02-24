@@ -38,6 +38,7 @@ layout: default
   <li>Workshop Dinner: 6,000JPY</li>
   </ul>
 </div>  
+
   <p></p>
   <p></p>
   <p></p>
