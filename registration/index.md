@@ -12,14 +12,17 @@ layout: default
   <ul>
   <li>March 1, 2016 - July 31, 2016</li>
   </ul>
-  <a href="http://yamazakim.github.io/test_warren2016/registration/register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a> 
+  <a href="http://yamazakim.github.io/test_warren2016/registration/register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a> <br><br>
+  
+  <a href="http://yamazakim.github.io/test_warren2016/registration/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
+  
 </div>
 <div class="submit">
   <p id="registration">Abstract submission period</p>
   <ul>
   <li>March 1, 2016 - June 30, 2016</li>
   </ul>   
-   <a href="{{site.url}}/images/AbstractTemplateForm.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a><br>
+   <a href="{{site.url}}/images/AbstractTemplateForm.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a><br><br>
   <a href="http://yamazakim.github.io/test_warren2016/registration/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
 </div>
   <h3>Registration Fee</h3>
