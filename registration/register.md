@@ -12,7 +12,7 @@ layout: default
 		Fields with an asterisk are required.<br>
 		</p>
 		<div class="form">
-			<form class="registrationForm" action="http://yamazakim.github.io/test_warren2016/registration/register/confirm" method="post" name="registrationForm" role="form">
+			<form class="registrationForm" action="" method="post" name="registrationForm" role="form">
 				
 			<div class="row em-abstruct-spaces">
 				<div class="col-sm-3 col-xs-12 clearfix">
@@ -296,7 +296,7 @@ layout: default
 			<tbody>
 				<tr>
 					<td id="navigation-buttons" class="form-entry">
-						 <a href="http://yamazakim.github.io/test_warren2016/registration/register/confirm">
+						 <a href="http://yamazakim.github.io/test_warren2016/registration/confirm">
 		 					<input id="button_submit" class="button_submit" type="button" alt="next" value="Next">
 						 </a>
 					</td>
