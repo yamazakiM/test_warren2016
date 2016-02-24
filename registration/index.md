@@ -23,7 +23,7 @@ layout: default
   <li>March 1, 2016 - June 30, 2016</li>
   </ul>   
    <a href="{{site.url}}/images/AbstractTemplateForm.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a><br><br>
-  <a href="http://yamazakim.github.io/test_warren2016/registration/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
+  <a href="https://script.google.com/macros/s/AKfycbwYW4Phs1k00dqaKpAEMcqlCLD6LCTil3N93CDKpEdkFokGXb0/exec"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
 </div>
   <h3>Registration Fee</h3>
   <hr>
