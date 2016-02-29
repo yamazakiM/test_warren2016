@@ -8,24 +8,25 @@ layout: default
   <h3>Registration and Abstract</h3>
   <hr>
  <div class="register">
-  <h4>Registration</h4>
+  <h4 class="registration">Registration</h4>
   <ul>
   <li>To register for Warren Workshop VI, please click "Register" button and fill out the form no later than <strong>July 31, 2016</strong>.</li>
   </ul>
-  <a href="http://yamazakim.github.io/test_warren2016/registration/register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a> </p>
+  <a href="http://yamazakim.github.io/test_warren2016/registration/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a> <br>
   <ul>
-  <li>After registration, please make payment no later than<strong>July 31, 2016</strong>.</li>
-  </ul>
+  <li>After registration, please make payment no later than<strong> July 31, 2016</strong>.</li>
   <a href="http://yamazakim.github.io/test_warren2016/registration/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
+   </ul>
+   
  <ul>
-   <li id="registration">Registration and payment period for Warren Workshop VI 2016 : March 1, 2016 - July 31, 2016</li>
+   <li id="registration">Registration and payment period for Warren Workshop VI 2016 :<strong>March 1, 2016 - July 31, 2016</strong>/li>
  </ul>
 <!--  <ul>
   <li>March 1, 2016 - July 31, 2016</li>
   </ul>--> 
 </div>
 <div class="submit">
-   <h4>Abstract submittion</h4>
+   <h4 class="registration">Abstract submittion</h4>
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
   </ul>
