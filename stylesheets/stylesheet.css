@@ -687,6 +687,17 @@ ul.instraction{
   list-style-type:none;
 }
 
+img.submit{
+  box-shadow:none;
+  display:block;
+  margin-left:15px;
+}
+input#button_submit_instraction{
+  margin-left:15px;
+  margin-top:5px;
+  
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
