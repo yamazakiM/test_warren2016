@@ -687,10 +687,10 @@ ul.instraction{
   list-style-type:none;
 }
 
-img.submit{
+img.abstract{
   box-shadow:none;
   display:block;
-  margin-left:15px;
+  margin-left:20px;
 }
 input#button_submit_instraction{
   margin-left:15px;
