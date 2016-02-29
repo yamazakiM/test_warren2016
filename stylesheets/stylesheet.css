@@ -704,6 +704,7 @@ ul.instraction{
 img.abstract{
   display:block;
   box-shadow:none;
+  border:none;
   margin-left:20px;
 }
 
