@@ -682,9 +682,10 @@ p.workshopDinnerPrice{
   font-size:0.8em;
 }
 
-form.workshop, fom.workshopDinner{
-  width:300px;
+form.workshop, form.workshopDinner{
+  width:250px;
   background-color:#fff;
+  border:1px solid gray;
 }
 /*******************************************************************************
 Small Device Styles
