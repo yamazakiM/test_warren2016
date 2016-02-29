@@ -689,6 +689,14 @@ div#viewCart{
   margin-top:250px;
 }
 
+div#workshop{
+  margin-left:5px;
+}
+
+div#workshopDinner{
+  margin-top:5px;
+}
+
 ul.instraction{
   list-style-type:none;
 }
