@@ -26,6 +26,7 @@ layout: default
   <li>March 1, 2016 - July 31, 2016</li>
   </ul>--> 
 </div>
+<br>
 <div class="submit">
    <h4 class="registration">Abstract submittion</h4>
   <ul>
@@ -46,15 +47,16 @@ layout: default
   <li>March 1, 2016 - June 30, 2016</li>
   </ul>-->   
 </div>
+<br>
   <h3>Registration Fee</h3>
   <hr>
 <div class="registrationFee">
-  <p>Registration Fee for Workshop</p>
+  <h4 class="registration">Registration Fee for Workshop</h4>
   <ul>
   <li>Student: 3,000JPY</li>
   <li>Other: 10,000JPY</li>
   </ul>
-  <p>Registration Fee for Workshop Dinner</p>
+  <h4 class="registration">Registration Fee for Workshop Dinner</h4>
   <ul>
   <li>Workshop Dinner: 6,000JPY</li>
   </ul>
