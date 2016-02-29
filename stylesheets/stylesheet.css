@@ -674,17 +674,16 @@ span.asterisk{
     text-decoration:none;
 }
 
-p.workshopDinnerPrice{
-  width:100px;
-  background-color:gray;
-  border:1px solid #000;
-  text-align:center;
-  font-size:0.8em;
+form.workshop, form.workshopDinner{
+  border:1px solid gray;
+  width:250px;
+  float:left;
+  margin-top:15px;
+  margin-left:18px;
+  height:150px;  
 }
 
-input.addToCart{
-  float:left;
-}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
