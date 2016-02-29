@@ -675,11 +675,17 @@ span.asterisk{
 }
 
 p.workshopDinnerPrice{
-  width:20px;
+  width:100px;
   background-color:gray;
   border:1px solid #000;
+  text-align:center;
+  font-size:0.8em;
 }
 
+form.workshop, fom.workshopDinner{
+  width:300px;
+  background-color:#fff;
+}
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
