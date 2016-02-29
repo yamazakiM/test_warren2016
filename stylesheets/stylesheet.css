@@ -676,9 +676,9 @@ span.asterisk{
 
 form.workshop, form.workshopDinner{
   border:1px solid gray;
-  width:250px;
+  width:260px;
   float:left;
-  margin-top:15px;
+  margin-top:12px;
   margin-left:18px;
   height:150px;  
 }
