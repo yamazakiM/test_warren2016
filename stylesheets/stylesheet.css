@@ -683,6 +683,9 @@ form.workshop, form.workshopDinner{
   height:150px;  
 }
 
+ul.instraction{
+  list-style-type:none;
+}
 
 /*******************************************************************************
 Small Device Styles
