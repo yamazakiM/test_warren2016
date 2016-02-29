@@ -11,15 +11,16 @@ layout: default
   <h4 class="registration">Registration</h4>
   <ul>
   <li>To register for Warren Workshop VI, please click "Register" button and fill out the form no later than <strong>July 31, 2016</strong>.</li>
-  </ul>
-  <a href="http://yamazakim.github.io/test_warren2016/registration/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a> <br>
+  <a href="http://yamazakim.github.io/test_warren2016/registration/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
+  </ul><br>
   <ul>
   <li>After registration, please make payment no later than<strong> July 31, 2016</strong>.</li>
   <a href="http://yamazakim.github.io/test_warren2016/registration/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
-   </ul>
+   </ul><br>
    
  <ul>
-   <li id="registration">Registration and payment period for Warren Workshop VI 2016 :<strong>March 1, 2016 - July 31, 2016</strong>/li>
+   <li id="registration">Registration and payment period for Warren Workshop VI 2016<br>
+   <strong>March 1, 2016 - July 31, 2016</strong></li>
  </ul>
 <!--  <ul>
   <li>March 1, 2016 - July 31, 2016</li>
@@ -29,14 +30,17 @@ layout: default
    <h4 class="registration">Abstract submittion</h4>
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
-  </ul>
    <a href="{{site.url}}/images/AbstractTemplateForm.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
+     </ul><br>
+     
    <ul>
    <li>After download a template, please click "Submit Abstract" button and follow the instractions.</li>
   <a href="https://script.google.com/macros/s/AKfycbwYW4Phs1k00dqaKpAEMcqlCLD6LCTil3N93CDKpEdkFokGXb0/exec"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
-   </ul>
+   </ul><br>
+   
    <ul>
-    <li id="registration">Abstract submission period : March 1, 2016 - June 30, 2016</li>
+    <li id="registration">Abstract submission period<br>
+    <strong>March 1, 2016 - June 30, 2016</strong></li>
   </ul>
   <!--<ul>
   <li>March 1, 2016 - June 30, 2016</li>
