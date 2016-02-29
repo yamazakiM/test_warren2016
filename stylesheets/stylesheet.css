@@ -411,6 +411,9 @@ html {
   overflow:visible;
   z-index:2000;
 }
+form.workshop, form.workshopDinner{
+  background-color:#fff;
+}
 
 @media (max-width: 639px) {
     .globalNav {
