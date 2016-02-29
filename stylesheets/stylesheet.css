@@ -411,8 +411,8 @@ html {
   overflow:visible;
   z-index:2000;
 }
-form.workshop, form.workshopDinner{
-  background-color:#fff;
+form.workshop > table{
+  border:none;
 }
 
 @media (max-width: 639px) {
