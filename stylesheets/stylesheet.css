@@ -678,9 +678,13 @@ form.workshop, form.workshopDinner{
   border:1px solid gray;
   width:260px;
   float:left;
-  margin-top:12px;
-  margin-left:18px;
+  margin-top:30px;
+  margin-left:12px;
   height:150px;  
+}
+
+div.viewCart{
+  text-align:center;
 }
 
 ul.instraction{
