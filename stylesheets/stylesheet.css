@@ -674,6 +674,11 @@ span.asterisk{
     text-decoration:none;
 }
 
+p.workshopDinnerPrice{
+  width:20px;
+  background-color:gray;
+  border:1px solid #000;
+}
 
 /*******************************************************************************
 Small Device Styles
