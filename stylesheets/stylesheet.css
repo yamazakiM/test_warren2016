@@ -675,16 +675,18 @@ span.asterisk{
 }
 
 form.workshop, form.workshopDinner{
-  border:1px solid gray;
-  width:260px;
+  border:4px inset #787878;
+  width:255px;
   float:left;
   margin-top:30px;
-  margin-left:12px;
+  margin-left:11px;
   height:150px;  
+  background-color:#E6FFE9;
 }
 
-div.viewCart{
+div#viewCart{
   text-align:center;
+  margin-top:250px;
 }
 
 ul.instraction{
