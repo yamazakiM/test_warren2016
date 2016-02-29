@@ -36,7 +36,7 @@ layout: default
      
    <ul>
    <li>After download a template, please click "Submit Abstract" button and follow the instractions.</li>
-  <a href="https://script.google.com/macros/s/AKfycbwYW4Phs1k00dqaKpAEMcqlCLD6LCTil3N93CDKpEdkFokGXb0/exec"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
+  <a href="{{site.url}}/registration/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
    </ul><br>
    
    <ul>
