@@ -682,10 +682,8 @@ p.workshopDinnerPrice{
   font-size:0.8em;
 }
 
-form.workshop, form.workshopDinner{
-  width:250px;
-  background-color:#fff;
-  border:1px solid gray;
+input.addToCart{
+  float:left;
 }
 /*******************************************************************************
 Small Device Styles
