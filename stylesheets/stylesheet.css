@@ -688,14 +688,9 @@ ul.instraction{
 }
 
 img.abstract{
-  box-shadow:none;
   display:block;
+  box-shadow:none;
   margin-left:20px;
-}
-input#button_submit_instraction{
-  margin-left:15px;
-  margin-top:5px;
-  
 }
 
 /*******************************************************************************
