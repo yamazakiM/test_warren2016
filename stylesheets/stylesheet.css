@@ -587,7 +587,7 @@ globalNavItem_btn-pulldown {
   z-index:200;
 }
 
-.topMainVis_title:after {
+.h1#title:after {
     content: '';
     width: 1px;
     height: 100%;
@@ -595,7 +595,7 @@ globalNavItem_btn-pulldown {
     vertical-align: middle;
 }
 
-.topMainVis_title > h1 {
+.topMainVis_inner > h1#title {
     display: inline-block;
     margin: 0;
     padding: 0;
