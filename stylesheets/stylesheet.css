@@ -570,9 +570,16 @@ globalNavItem_btn-pulldown {
     width:100%;
 }
 
+@media (max-width: 639px) {
+    .topMainVis {
+        position: absolute;
+        width: 640px;
+    }
+}
+
 .topMainVis_inner {
     position: relative;
-    /*width: 940px;*/
+    width: 940px;
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
