@@ -595,19 +595,6 @@ globalNavItem_btn-pulldown {
     vertical-align: middle;
 }
 
-.topMainVis_inner > h1#project_title {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    font-size: 60px;
-    font-weight: bold;
-    color: #1a1a1a ;
-    line-height: 55px;
-    letter-spacing: 2px;
-    vertical-align: middle;
-    text-shadow: -1px -1px 1px #0b2a84, 1px 1px 1px #d1fbff;
-}
-
 footer{
   text-shadow:1px 3px 3px #000;
   width:640px;
@@ -776,8 +763,7 @@ ul.globalNav_ul{
 }*/
 
 .topMainVis{
-  min-width: 320px;
-  max-width: 480px;
+  max-width: 100%;
 }
 
   #project_title {
