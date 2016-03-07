@@ -717,17 +717,44 @@ Small Device Styles
     font-size:14px;
   }
 
+img{
+max-width: 100%;
+height: auto;
+width /***/:auto;　
+}
+
+#content_outer{
+width:100%;
+}
+
   #downloads {
     display: none;
   }
-
+/*
   .inner {
     min-width: 320px;
     max-width: 480px;
   }
+*/
+  
+/*nav.globalNav{
+  min-width:320px;
+  max-width:480px;
+}
+
+ul.globalNav_ul{
+  min-width:300px;
+  max-width:460px;
+}*/
+
+.topMainVis{
+  min-width: 320px;
+  max-width: 480px;
+}
 
   #project_title {
   font-size: 32px;
+  max-width:100%;
   }
 
   h1 {
