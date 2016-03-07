@@ -581,13 +581,13 @@ globalNavItem_btn-pulldown {
     margin-top:30px;
 }
 
-.topMainVis_title{
+.topMainVis_inner{
   position:relative;
   text-align:center;
   z-index:200;
 }
 
-.h1#title:after {
+.topMainVis_inner:after {
     content: '';
     width: 1px;
     height: 100%;
@@ -595,7 +595,7 @@ globalNavItem_btn-pulldown {
     vertical-align: middle;
 }
 
-.topMainVis_inner > h1#title {
+.topMainVis_inner > h1#project_title {
     display: inline-block;
     margin: 0;
     padding: 0;
