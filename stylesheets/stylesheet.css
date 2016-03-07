@@ -570,22 +570,41 @@ globalNavItem_btn-pulldown {
     width:100%;
 }
 
-@media (max-width: 639px) {
-    .topMainVis {
-        position: relative;
-        width: 640px;
-    }
-}
-
 .topMainVis_inner {
     position: relative;
-    width: 100%;
+    width: 940px;
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
-    text-align:center;
     z-index: 200;
     margin-top:30px;
+}
+
+.topMainVis_title{
+  position:relative;
+  text-align:center;
+  z-index:200;
+}
+
+.topMainVis_title:after {
+    content: '';
+    width: 1px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.topMainVis_title > h1 {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    font-size: 60px;
+    font-weight: bold;
+    color: #1a1a1a ;
+    line-height: 55px;
+    letter-spacing: 2px;
+    vertical-align: middle;
+    text-shadow: -1px -1px 1px #0b2a84, 1px 1px 1px #d1fbff;
 }
 
 footer{
