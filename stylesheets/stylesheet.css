@@ -572,7 +572,7 @@ globalNavItem_btn-pulldown {
 
 @media (max-width: 639px) {
     .topMainVis {
-        position: absolute;
+        position: relative;
         width: 640px;
     }
 }
