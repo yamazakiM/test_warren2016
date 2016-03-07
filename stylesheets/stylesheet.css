@@ -579,7 +579,7 @@ globalNavItem_btn-pulldown {
 
 .topMainVis_inner {
     position: relative;
-    width: 940px;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
