@@ -567,6 +567,7 @@ globalNavItem_btn-pulldown {
     clear: both;
     margin-top:34px;
     box-shadow:0 2px 3px 0 rgba(0, 0, 0, 0.25);
+    width:100%;
 }
 
 .topMainVis_inner {
