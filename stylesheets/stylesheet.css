@@ -720,7 +720,7 @@ img.abstract{
 }
 
 h1#project_title, h4#project_theme{
-  margin:0 auto;
+  text-align:center;
   min-width:640px;
 }
 
