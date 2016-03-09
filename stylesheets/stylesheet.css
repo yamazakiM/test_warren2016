@@ -582,12 +582,6 @@ globalNavItem_btn-pulldown {
     margin-top:30px;
 }
 
-.topMainVis_inner{
-  position:relative;
-  text-align:center;
-  z-index:200;
-}
-
 .topMainVis_inner:after {
     content: '';
     width: 1px;
