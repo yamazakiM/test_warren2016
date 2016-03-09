@@ -721,6 +721,7 @@ img.abstract{
 
 h1#project_title, h4#project_theme{
   margin:0 auto;
+  min-width:640px;
 }
 
 /*******************************************************************************
