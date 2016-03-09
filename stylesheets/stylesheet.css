@@ -422,7 +422,7 @@ form.workshop > table{
     }
 }
 
-.globalNav_inner {
+#globalNav_inner {
     position: relative;
     width: 640px;
     height: 35px;
