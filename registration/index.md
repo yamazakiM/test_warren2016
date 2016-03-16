@@ -6,21 +6,21 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
   <h3>Registration and Abstract</h3>
-
+  <hr>
  <div class="register">
   <h4 class="registration">Registration</h4>
   <ul>
-  <li>To register for Warren Workshop VI, please click "Register" button and fill out the form. No later than <strong>July 31, 2016</strong>.</li>
+  <li>To register for Warren Workshop VI, please click "Register" button and fill out the form no later than <strong>July 31, 2016</strong>.</li>
   <a href="{{site.url}}/registration/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
   </ul><br>
   <ul>
-  <li>After registration, please make payment. No later than<strong> July 31, 2016</strong>.</li>
+  <li>After registration, please make payment no later than<strong> July 31, 2016</strong>.</li>
   <a href="{{site.url}}/registration/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
    </ul><br>
    
  <ul>
-   <li id="registration">Registration and payment deadline for Warren Workshop VI 2016<br>
-   <strong>July 31, 2016</strong></li>
+   <li id="registration">Registration and payment period for Warren Workshop VI 2016<br>
+   <strong>March 1, 2016 - July 31, 2016</strong></li>
  </ul>
 <!--  <ul>
   <li>March 1, 2016 - July 31, 2016</li>
@@ -40,17 +40,17 @@ layout: default
    </ul><br>
    
    <ul>
-    <li id="registration">Abstract submission deadline<br>
-    <strong>June 30, 2016</strong></li>
+    <li id="registration">Abstract submission period<br>
+    <strong>March 1, 2016 - June 30, 2016</strong></li>
   </ul>
   <!--<ul>
   <li>March 1, 2016 - June 30, 2016</li>
   </ul>-->   
 </div>
 <br>
-
-<div class="registrationFee">
   <h3>Registration Fee</h3>
+  <hr>
+<div class="registrationFee">
   <h4 class="registration">Registration Fee for Workshop</h4>
   <ul>
   <li>Student: 3,000JPY</li>
@@ -77,7 +77,7 @@ layout: default
   <p>We will mail the documents to you as soon as they are ready.<br>
 Please make sure to provide us with correct mailing address. </p>
 </div>
-  
+
 
   </section>
 </div>
