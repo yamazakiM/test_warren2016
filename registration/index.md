@@ -48,9 +48,9 @@ layout: default
   </ul>-->   
 </div>
 <br>
-  <h3>Registration Fee</h3>
 
 <div class="registrationFee">
+  <h3>Registration Fee</h3>
   <h4 class="registration">Registration Fee for Workshop</h4>
   <ul>
   <li>Student: 3,000JPY</li>
@@ -62,9 +62,21 @@ layout: default
   </ul>
 </div>  
 
-  <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
+<div class="visa">
+ <h3>Application for Visa</h3>
+ <h4 class="visa">Application for Visa</h4>
+  <p>In order to prepare the official documents for you to apply for a Visa, please e-mail us following documents:</p>
+  <ul>
+  <li>Visa Questionnaire<br>
+  Download MS word file as a template.<br>
+   <a href="{{site.url}}/images/AbstractTemplate.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a></li>
+  <li>Curriculum Vitae<br> (Date of birth must be indicated)</li>
+  <li> Passport copy<br>
+  (showing your personal details and a clear photo)</li>
+  </ul>
+  <p>We will mail the documents to you as soon as they are ready. Please make sure to provide us with your correct postal address. </p>
+</div>
+  
+
   </section>
 </div>
