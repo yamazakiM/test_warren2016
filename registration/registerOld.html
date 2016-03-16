@@ -1,0 +1,315 @@
+---
+title: register
+layout: default
+---
+<!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+  <section id="main_content" class="inner">
+    <h3 id="location">Registration Form for Warren Workshop VI 2016</h3>
+    <hr>
+<div class="divLayoutContentMain">	
+		<p>Please fill in the form below and click the <strong>Next</strong> button.<br>
+		Fields with an asterisk are required.<br>
+		</p>
+		<div class="form">
+			<form class="registrationForm" action="" method="post" name="registrationForm" role="form">
+				
+			<div class="row em-abstruct-spaces">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					1. Attendance <span class="asterisk">*</span>
+					<ul class="attendance" aria-label="1. +Attendance Type" role="group" value="attendance"　required="required"　>
+										<li class="choice-item">
+											<label for="AttendanceType" id="Workshop: August 24, 2016">
+												<span class="choice-item-control">
+													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 24, 2016">
+												</span>	
+												<span class="choice-label">
+													Workshop: August 24, 2016 
+												</span>
+											</label>
+										</li>
+
+										<li class="choice-item">
+											<label for="Attendance Type" id="Workshop: August 25, 2016">
+												<span class="choice-item-control">
+													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 25, 2016">
+												</span>	
+												<span class="choice-label">
+													Workshop: August 25, 2016 
+												</span>
+											</label>
+										</li>
+
+										<li class="choice-item">
+											<label for="Attendance Type" id="Workshop: August 26, 2016">
+												<span class="choice-item-control">
+													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 26, 2016">
+												</span>	
+												<span class="choice-label">
+													Workshop: August 26, 2016 
+												</span>
+											</label>
+										</li>
+
+										<li class="choice-item">
+											<label for="Attendance Type" id="Workshop Dinner: August 24, 2016">
+												<span class="choice-item-control">
+													<input id="group-attendance" class="q-checkbox valid" type="checkbox" aria-required="true" role="checkbox" value="Workshop: August 26, 2016">
+												</span>	
+												<span class="choice-label">
+													Workshop Dinner: August 24, 2016 
+												</span>
+											</label>	
+										</li>
+									</ul>	
+				</div>
+				<div class="dietaryRestrictions_title">
+					<label for="dietaryRestrictions" id="dietaryRestrictions">
+						If you are attending Workshop Dinner and have dietary restrictions, please write down details (e.g. wheat, milk)
+					</label>
+				</div>
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<input id="dietaryRestrictions" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="dietaryRestrictions"　required="required" size="50">
+				</div>
+			</div>
+			<br>
+	<div id="registration_abstruct">
+		<div class="row inputLastName input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="lastName" id="lastName">
+						2. Last Name <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="lastName" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="lastName"　required="required" size="50">
+				</div>
+			</div>
+			<br>
+
+			<div class="middleName input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="middleName" id="middleName">
+						3. Middle Name
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="middleName" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="middleName"　required="required" size="50">
+				</div>
+			</div>	
+			<br>
+			
+			<div class="firstName input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="firstName">
+						4. First Name <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="first_name" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="firstName"　required="required" size="50">
+				</div>
+			</div>	
+			<br>
+			
+			<div class="gender input-user-field">
+				<div class="col-sm-9 col-xs-12">
+					<label for="gender" id="gender">
+						5. Gender <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12">
+					<select id="gender" class="gender-select form-control col-sm-8 col-xs-12" name="gender"required="required">
+						<option value"male" id="male">
+							Male
+						</option>	
+						<option value"female" id="female">
+							Female
+						</option>
+					</select>	
+				</div>
+				<br>
+
+			<div class="occupation input-user-field">
+				<div class="col-sm-9 col-xs-12">
+					<label for="occupation" id="occupation">
+						6. Occupation <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12">
+					<select id="occupation" class="occupation-select form-control col-sm-8 col-xs-12" name="occupation"　required="required">
+						<option value="student" id="stuent">
+							Student
+						</option>	
+						<option value="academicResearcher" id="academicResearcher">
+							Academic Researcher
+						</option>
+						<option value="corporateResearcher" id="corporateResearcher">
+							Corporate Reseracher
+						</option>
+						<option value="other" id="other">
+							Other
+						</option>
+					</select>	
+				</div>
+				<div class="occupationDetail">
+					<label for="occupationDetail" id="occupationDetail">
+						If you selected "Other", please write down details
+					</label>
+				</div>
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<input id="occupation_detail" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="occupation_detail" size="50">
+				</div>
+			</div>	
+			<br>
+
+			<div class="affiliation input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="affiliation" id="affiliation">
+						7. Affiliation <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="affiliation" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="affiliation"　required="required" size="50">
+				</div>
+			</div>
+			<br>
+
+			<div class="businessAddress input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="business_address" id="businessAddress">
+						8. Business Address <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="businessAddress" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="businessAddress" required="required" size="50"><br>
+					<input id="businessAddress" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="businessAddress" size="50">
+				</div>
+			</div>
+			<br>
+
+			<div class="city input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="city" id="city">
+						9. City <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="city" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="city" required="required" size="50">
+				</div>
+			</div>
+			<br>
+
+			<div class="state input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="state" id="state">
+						10. State / Province <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="state" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="state" required="required" size="50">
+				</div>
+			</div>
+			<br>
+			
+			<div class="country input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="country" id="country">
+						11. Country <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="business_address_country" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="business_address_country" required="required" size="50">
+				</div>
+			</div>
+			<br>
+
+
+			<div class="postal input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="postal" id="postal">
+						12. Postal / Zip Code <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="postal" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="postal" size="50">
+				</div>
+			</div>
+			<br>
+
+
+			<div class="phoneNumber input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="phoneNumber" id="phoneNumber">
+						13. Phone Number <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="phoneNumber" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="phoneNumber" required="required" size="50">
+				</div>
+			</div>
+			<br>
+
+
+			<div class="email input-user-field">
+				<div class="col-sm-3 col-xs-12 clearfix">
+					<label for="email" id="email">
+						14. E-mail Address <span class="asterisk">*</span> 
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12 clearfix">
+					<input id="email" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="email" required="required" size="50">
+				</div>
+			</div>
+			
+			<div class="confirmEmail">
+				<div class="confirmEmail">
+					<label for="confirmEmail" id="confirmEmail">
+						 Confirm E-mail Address <span class="asterisk">*</span> 
+					</label>	
+				</div>	
+				<div class="confirmEmail clearfix">
+					<input id="confirmEmail" class="input form-control col-sm-8 col-xs-12" type="text" value="" name="confirmEmail" required="required" size="50">
+				</div>
+			</div>
+			<br>
+			
+			<div class="visa input-user-field">
+				<div class="col-sm-9 col-xs-12">
+					<label for="visa" id="visa">
+						15. Do you need "Letter of Guarantee" to acquire a visa to enter Japan? <span class="asterisk">*</span>
+					</label>	
+				</div>	
+				<div class="col-sm-9 col-xs-12">
+					<select id="visa" class="visa col-sm-8 col-xs-12" name="visa" required="required">
+						<option>
+							Yes, I need "Letter of Guarantee"
+						</option>	
+						<option>
+							No, I don't need visa
+						</option>
+					</select>	
+				</div>
+			</div>
+			<br>
+
+	<div class="item_register">
+		<table id="navigation-table">
+			<tbody>
+				<tr>
+					<td id="navigation-buttons" class="form-entry">
+						 <a href="http://yamazakim.github.io/test_warren2016/registration/payment">
+		 					<input id="button_submit" class="button_submit" type="button" alt="next" value="Next">
+						 </a>
+					</td>
+		 			<td id="navigation-buttons" class="form-entry">
+						<input id="button_reset" class="reset" type="reset" alt="reset" value="Reset">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+ </form>
+ 
+ 
+ </div>
+</section>
+</div>
