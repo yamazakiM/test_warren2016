@@ -51,7 +51,12 @@ layout: default
 
 <div class="registrationFee">
   <h3>Registration Fee</h3>
+<<<<<<< HEAD
   <h4 class="registration">Registration Fee for Workshop</h4>
+=======
+  <!--<hr>-->
+  <p>Registration Fee for Workshop</p>
+>>>>>>> c07b204416c1d6897efc6980db00d64b0e2d6f73
   <ul>
   <li>Student: 3,000JPY</li>
   <li>Other: 10,000JPY</li>
@@ -60,6 +65,7 @@ layout: default
   <ul>
   <li>Workshop Dinner: 6,000JPY</li>
   </ul>
+<<<<<<< HEAD
 </div>  
 <br>
 <div class="visa">
@@ -79,5 +85,32 @@ Please make sure to provide us with correct mailing address. </p>
 </div>
   
 
+=======
+  <br>
+  
+  <h3>Application for Visa</h3>
+  <!--<hr>-->
+  <p>In order to prepare the official documents for you to apply for a Visa, Please e-mail us following documents:</p>
+  <ul>
+  <li>Visa Questionnaire</li>
+  <li>Curriculum Vitae (Date of birth must be indicated)</li>
+  <li> Passport copy (showing your personal details and a clear photo)</li>
+  </ul>
+  <p>We will mail the documents to you as soon as they are ready. Please make sure to provide us with your correct mailing address. </p>
+
+  
+
+  We realized that for visa purpose you will need a formal invitation letter
+and a few additional official documents. Please send your curriculum vitae
+(CV), a copy of your passport showing your personal details and a clear
+photo, and the information of your stay in Japan (hotel, date of arrival and
+departure, and the international airport) to us at
+xxxx-ml@aist.go.jp so that we can issue the documents required for your
+visa application.
+
+We will mail the documents to you as soon as they are ready so please make
+sure to provide us with your correct mailing address and phone number.
+
+>>>>>>> c07b204416c1d6897efc6980db00d64b0e2d6f73
   </section>
 </div>
