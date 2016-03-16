@@ -70,11 +70,12 @@ layout: default
   Download MS word file as a template and fill in the questionnaire.<br>
    <a href="{{site.url}}/images/VisaQuestionnaire.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Visa Questionnaire"></a></li>
   <li>Curriculum Vitae<br> 
-  (Date of birth must be indicated)</li>
+  - Date of birth must be indicated</li>
   <li> Photocopy of passport<br>
-  (Copy of the photo and signature page)</li>
+  - Copy of the photo and signature page</li>
   </ul>
-  <p>We will mail the documents to you as soon as they are ready. Please make sure to provide us with correct mailing address. </p>
+  <p>We will mail the documents to you as soon as they are ready.<br>
+Please make sure to provide us with correct mailing address. </p>
 </div>
   
 
