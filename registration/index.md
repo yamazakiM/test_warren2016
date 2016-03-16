@@ -61,20 +61,20 @@ layout: default
   <li>Workshop Dinner: 6,000JPY</li>
   </ul>
 </div>  
-
+<br>
 <div class="visa">
- <h3>Application for Visa</h3>
- <h4 class="visa">Application for Visa</h4>
+ <h3>Apply for Visa</h3>
   <p>In order to prepare the official documents for you to apply for a Visa, please e-mail us following documents:</p>
   <ul>
   <li>Visa Questionnaire<br>
   Download MS word file as a template.<br>
-   <a href="{{site.url}}/images/AbstractTemplate.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a></li>
-  <li>Curriculum Vitae<br> (Date of birth must be indicated)</li>
-  <li> Passport copy<br>
-  (showing your personal details and a clear photo)</li>
+   <a href="{{site.url}}/images/VisaQuestionnaire.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Visa Questionnaire Template"></a></li>
+  <li>Curriculum Vitae<br> 
+  (Date of birth must be indicated)</li>
+  <li> Photocopy of passport<br>
+  (Copy of the photo and signature page)</li>
   </ul>
-  <p>We will mail the documents to you as soon as they are ready. Please make sure to provide us with your correct postal address. </p>
+  <p>We will mail the documents to you as soon as they are ready. Please make sure to provide us with correct mailing address. </p>
 </div>
   
 
