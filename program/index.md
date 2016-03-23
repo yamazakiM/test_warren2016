@@ -98,8 +98,30 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
 
+<h3>Speakers</h3>
+<ul>
+<li>Carlito LeBrilla</li>
+<li>Frederique Lisacek</li>
+<li>Gavin Davey</li>
+<li>Gerry Hart</li>
+<li>Gu Jiangxin</li>
+<li>Henrik Clausen</li>
+<li>Jim Paulson</li>
+<li>Kay-Hoo Khoo  </li>
+<li>Matthew Campbell</li>
+<li>Mike Tiemeyer</li>
+<li>Nicki Packer </li>
+<li>Niclas Karlsson </li>
+<li>Rob Woods</li>
+<li>Ten Feizi</li>
+<li>Ten Feizi</li>
+</ul>
+<br>
+
+
+
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
-<hr>
+
 <p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
 To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.<br></p>
 <br>
