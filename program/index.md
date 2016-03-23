@@ -100,21 +100,21 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 
 <h3>Speakers</h3>
 <ul>
-<li>Carlito LeBrilla</li>
-<li>Frederique Lisacek</li>
-<li>Gavin Davey</li>
-<li>Gerry Hart</li>
-<li>Gu Jiangxin</li>
-<li>Henrik Clausen</li>
-<li>Jim Paulson</li>
-<li>Kay-Hoo Khoo  </li>
-<li>Matthew Campbell</li>
-<li>Mike Tiemeyer</li>
-<li>Nicki Packer </li>
-<li>Niclas Karlsson </li>
-<li>Rob Woods</li>
-<li>Ten Feizi</li>
-<li>Ten Feizi</li>
+<li>Carlito Lebrilla / University of California, Davis, USA</li>
+<li>Frederique Lisacek / Swiss Institue of Bioinformatics, Switzerland</li>
+<li>Gavin Davey / Trinity College Bublin, Ireland</li>
+<li>Gerald Hart / Johns Hopkins University, USA</li>
+<li>Gu Jianxin / Shanghai Medical College of Fudan University, China</li>
+<li>Henrik Clausen / University of Copenhagen, Denmark</li>
+<li>Jim Paulson / The Scripps Research Institute, California, USA</li>
+<li>Kay-Hooi Khoo / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
+<li>Matthew Campbell / Macquarie University, Australia</li>
+<li>Michael Tiemeyer / University of Georgia, USA </li>
+<li>Nicki Packer /  Macquarie University, Australia</li>
+<li>Niclas Karlsson / University of Gothenburg, Sweden </li>
+??<li>Robert Woods / University of Georgia, USA</li>
+<li>Ten Feizi /  Imperial College London, UK</li>
+<li>Yan Zhang  / Shanghai Jiao Tong University,  China </li>
 </ul>
 <br>
 
