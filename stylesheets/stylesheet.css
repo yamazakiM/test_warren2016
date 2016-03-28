@@ -738,7 +738,7 @@ h1#project_title, h4#project_theme{
 #pageTop a {
       display: block;
       z-index: 999;
-      padding: 8px 0 0 8px;
+      padding: 0px 0 0 0px;
       border-radius: 30px;
       width: 35px;
       height: 35px;
@@ -829,3 +829,32 @@ ul.globalNav_ul{
   }
 
 }
+/* =====================
+    タブレット向け
+======================= */
+@media screen and (min-width: 480px) and (max-width: 959px) {
+ 
+.pageTop {
+    width:100%;
+}
+.pageTop a {
+    left:-68px;
+    margin-left:100%;
+}
+ 
+/* タブレット向けここまで */ }
+ 
+/* =====================
+    スマホ向け
+======================= */
+@media screen and (max-width: 479px) {
+ 
+.pageTop {
+    width:100%;
+}
+.pageTop a {
+    left:-68px;
+    margin-left:100%;
+}
+ 
+/* スマホ向けここまで */ }
