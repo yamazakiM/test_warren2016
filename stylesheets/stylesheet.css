@@ -750,6 +750,7 @@ h1#project_title, h4#project_theme{
       text-align: center;
     }
 */
+
 /* ページトップへ戻る */
 .pageTop {
     position:relative;
@@ -765,9 +766,9 @@ h1#project_title, h4#project_theme{
     display: block;
     width: 66px;
     hegiht:66px;
-    margin-left:920px;
+    margin-left:920px;*/
     /* ↓以下はリンク装飾↓ */
-    padding:1em 0
+    padding:1em 0;
     background:#3498db;
     text-align:center;
     outline:none;
