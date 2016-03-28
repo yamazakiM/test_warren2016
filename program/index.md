@@ -114,7 +114,7 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 <li>Nicolle Packer /  Macquarie University, Australia</li>
 <li>Niclas Karlsson / University of Gothenburg, Sweden</li>
 <li>Rene Ranzinger / The University of Gerogia, USA</li>
-??<li>Robert Woods / The University of Georgia, USA</li>
+<li>Robert Woods / The University of Georgia, USA</li>
 <li>Simon North /  Imperial College London, UK</li>
 <li>Ten Feizi /  Imperial College London, UK</li>
 <li>William York /  The University of Georgia, USA</li>
