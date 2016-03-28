@@ -730,7 +730,7 @@ h1#project_title, h4#project_theme{
   min-width:640px;
 }
 
-/*
+
 #pageTop a:hover {
       text-decoration: none;
       opacity: 0.7;
@@ -749,10 +749,10 @@ h1#project_title, h4#project_theme{
       text-decoration: none;
       text-align: center;
     }
-*/
+
 
 /* ページトップへ戻る */
-.pageTop {
+/*.pageTop {
     position:relative;
     width:90%;
     max-width:900px;
@@ -768,14 +768,14 @@ h1#project_title, h4#project_theme{
     hegiht:66px;
     margin-left:920px;*/
     /* ↓以下はリンク装飾↓ */
-    padding:1em 0;
+   /* padding:1em 0;
     background:#3498db;
     text-align:center;
     outline:none;
     text-decoration: none;
     z-index:9999;
     border-radius:3px 3px 0 0;
-}
+}*/
 
 /*******************************************************************************
 Small Device Styles
