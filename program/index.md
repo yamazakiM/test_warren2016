@@ -102,19 +102,23 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 <ul>
 <li>Carlito Lebrilla / University of California, Davis, USA</li>
 <li>Frederique Lisacek / Swiss Institue of Bioinformatics, Switzerland</li>
-<li>Gavin Davey / Trinity College Bublin, Ireland</li>
+<li>Gavin Davey / Trinity College Dublin, Ireland</li>
 <li>Gerald Hart / Johns Hopkins University, USA</li>
-<li>Gu Jianxin / Shanghai Medical College of Fudan University, China</li>
 <li>Henrik Clausen / University of Copenhagen, Denmark</li>
+<li>Jianxin Gu / Shanghai Medical College of Fudan University, China</li>
 <li>Jim Paulson / The Scripps Research Institute, California, USA</li>
 <li>Kay-Hooi Khoo / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
+<li>Kshitij Khatri / Boston University, USA </li>
 <li>Matthew Campbell / Macquarie University, Australia</li>
-<li>Michael Tiemeyer / University of Georgia, USA </li>
-<li>Nicki Packer /  Macquarie University, Australia</li>
-<li>Niclas Karlsson / University of Gothenburg, Sweden </li>
-??<li>Robert Woods / University of Georgia, USA</li>
+<li>Michael Tiemeyer / The University of Georgia, USA</li>
+<li>Nicolle Packer /  Macquarie University, Australia</li>
+<li>Niclas Karlsson / University of Gothenburg, Sweden</li>
+<li>Rene Ranzinger / The University of Gerogia, USA</li>
+??<li>Robert Woods / The University of Georgia, USA</li>
+<li>Simon North /  Imperial College London, UK</li>
 <li>Ten Feizi /  Imperial College London, UK</li>
-<li>Yan Zhang  / Shanghai Jiao Tong University,  China </li>
+<li>William York /  The University of Georgia, USA</li>
+<li>Yan Zhang  / Shanghai Jiao Tong University, China </li>
 </ul>
 <br>
 
