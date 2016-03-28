@@ -100,25 +100,25 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 
 <h3>Speakers</h3>
 <ul>
-<li>Carlito Lebrilla / University of California, Davis, USA</li>
-<li>Frederique Lisacek / Swiss Institue of Bioinformatics, Switzerland</li>
-<li>Gavin Davey / Trinity College Dublin, Ireland</li>
-<li>Gerald Hart / Johns Hopkins University, USA</li>
-<li>Henrik Clausen / University of Copenhagen, Denmark</li>
-<li>Jianxin Gu / Shanghai Medical College of Fudan University, China</li>
-<li>Jim Paulson / The Scripps Research Institute, California, USA</li>
-<li>Kay-Hooi Khoo / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
-<li>Kshitij Khatri / Boston University, USA </li>
-<li>Matthew Campbell / Macquarie University, Australia</li>
-<li>Michael Tiemeyer / The University of Georgia, USA</li>
-<li>Nicolle Packer /  Macquarie University, Australia</li>
-<li>Niclas Karlsson / University of Gothenburg, Sweden</li>
-<li>Rene Ranzinger / The University of Gerogia, USA</li>
-<li>Robert Woods / The University of Georgia, USA</li>
-<li>Simon North /  Imperial College London, UK</li>
-<li>Ten Feizi /  Imperial College London, UK</li>
-<li>William York /  The University of Georgia, USA</li>
-<li>Yan Zhang  / Shanghai Jiao Tong University, China </li>
+<li><strong>Carlito Lebrilla</strong> / University of California, Davis, USA</li>
+<li><strong>Frederique Lisacek</strong> / Swiss Institue of Bioinformatics, Switzerland</li>
+<li><strong>Gavin Davey</strong> / Trinity College Dublin, Ireland</li>
+<li><strong>Gerald Hart</strong> / Johns Hopkins University, USA</li>
+<li><strong>Henrik Clausen</strong> / University of Copenhagen, Denmark</li>
+<li><strong>Jianxin Gu</strong> / Shanghai Medical College of Fudan University, China</li>
+<li><strong>Jim Paulson</strong> / The Scripps Research Institute, USA</li>
+<li><strong>Kay-Hooi Khoo</strong> / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
+<li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
+<li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
+<li><strong>Michael Tiemeyer</strong> / The University of Georgia, USA</li>
+<li><strong>Nicolle Packer</strong> /  Macquarie University, Australia</li>
+<li><strong>Niclas Karlsson</strong> / University of Gothenburg, Sweden</li>
+<li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
+<li><strong>Robert Woods</strong> / CCRC, The University of Georgia, USA</li>
+<li><strong>Simon North</strong> /  Imperial College London, UK</li>
+<li><strong>Ten Feizi</strong> /  Imperial College London, UK</li>
+<li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>
+<li><strong>Yan Zhang</strong>  / Shanghai Jiao Tong University, China </li>
 </ul>
 <br>
 
