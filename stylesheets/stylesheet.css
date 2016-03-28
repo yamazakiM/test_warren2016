@@ -748,9 +748,20 @@ h1#project_title, h4#project_theme{
       font-weight: bold;
       text-decoration: none;
       text-align: center;
+      margin-left:980px;
+      position:fixed;
+      bottom:0px;
+      left:auto;
     }
-
-
+    
+#pageTop{
+  position:relative;
+  width:90%;
+  max-width:900px;
+  height:0;
+  margin:auto 0;
+}
+    
 /* ページトップへ戻る */
 /*.pageTop {
     position:relative;
