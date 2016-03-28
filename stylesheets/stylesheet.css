@@ -730,6 +730,26 @@ h1#project_title, h4#project_theme{
   min-width:640px;
 }
 
+#pageTop a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+    }
+
+#pageTop a {
+      display: block;
+      z-index: 999;
+      padding: 8px 0 0 8px;
+      border-radius: 30px;
+      width: 35px;
+      height: 35px;
+      background-color: #9FD6D2;
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      text-align: center;
+    }
+
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
