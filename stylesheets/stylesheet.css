@@ -872,10 +872,10 @@ ul.globalNav_ul{
 ======================= */
 @media screen and (min-width: 480px) and (max-width: 959px) {
  
-.pageTop {
+#pageTop {
     width:100%;
 }
-.pageTop a {
+#pageTop a {
     left:-68px;
     margin-left:100%;
 }
@@ -887,10 +887,10 @@ ul.globalNav_ul{
 ======================= */
 @media screen and (max-width: 479px) {
  
-.pageTop {
+#pageTop {
     width:100%;
 }
-.pageTop a {
+#pageTop a {
     left:-68px;
     margin-left:100%;
 }
