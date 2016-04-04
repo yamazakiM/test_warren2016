@@ -489,7 +489,7 @@ form.workshop > table{
     padding: 0 1px;
 }
 
-.globalNavItem_sub {
+.dropdown-menu {
     display: none;
     position: absolute;
     width: 170px;
@@ -506,13 +506,13 @@ form.workshop > table{
     font-weight: bold;
 }
 
-.globalNavItem_sub > li {
+.dropdown-menu > li {
     display: block;
     list-style: none;
     border-bottom: #ccc;
 }
 
-.globalNavItem_sub > li > a {
+.dropdown-menu > li > a {
     color: #787878;
     display: table-cell;
     width: 150px;
@@ -527,12 +527,12 @@ form.workshop > table{
     font-weight: bold;
 }
 
-.globalNavItem_sub > li > a:hover, .globalNavItem_sub > li > a:focus {
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
     background: #fbfaf8;
     color: #660098;
 }
 
-globalNavItem_btn-pulldown {
+.globalNavItem_btn-pulldown {
     position: relative;
     padding: 0 15px 0 0;
     height: 45px;
