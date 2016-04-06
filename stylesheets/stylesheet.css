@@ -398,6 +398,34 @@ html {
   vertical-align:center;
 }
 
+.navbar .brand {
+  padding: 8px 20px 12px;
+  font-size: 20px;
+  color: #565454;
+}
+
+.navbar .divider-vertical {
+  height: 41px;
+  background-color: #ffffff;
+  border-right: 1px solid #c6c6c6;
+}
+
+.navbar .nav > li > a {
+  padding: 10px 30px 11px;
+  font-size: 14px;
+  color: #5e5555;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #424242;
+}
+
+li.dropdown{
+    font-size: 13px;
+}
+
 .globalNav{
   position:fixed;
   width:100%;
