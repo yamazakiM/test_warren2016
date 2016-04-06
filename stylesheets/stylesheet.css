@@ -489,7 +489,7 @@ form.workshop > table{
     padding: 0 1px;
 }
 
-.dropdown-menu {
+. globalNavItem_sub{
     display: none;
     position: absolute;
     width: 170px;
@@ -506,13 +506,13 @@ form.workshop > table{
     font-weight: bold;
 }
 
-.dropdown-menu > li {
+.globalNavItem_sub > li {
     display: block;
     list-style: none;
     border-bottom: #ccc;
 }
 
-.dropdown-menu > li > a {
+.globalNavItem_sub > li > a {
     color: #787878;
     display: table-cell;
     width: 150px;
@@ -527,7 +527,7 @@ form.workshop > table{
     font-weight: bold;
 }
 
-.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+.globalNavItem_sub > li > a:hover, .globalNavItem_sub > li > a:focus {
     background: #fbfaf8;
     color: #660098;
 }
