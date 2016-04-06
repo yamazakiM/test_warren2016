@@ -10,3 +10,5 @@ $(" #globalNavi li").hover(function(){
   
 $(document).ready(function(){                   
     mainmenu();
+});
+    
