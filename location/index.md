@@ -31,7 +31,8 @@ layout: default
          </li>
          <li>
       <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-%E8%8B%B1%E8%AA%9E%E7%89%88%E3%82%       AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9C%80%E7%B5%82.pdf">Campus Guide Map</a>
-      </li>
+         </li>
+      </ul>
       </p>
       <br>
 
