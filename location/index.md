@@ -28,13 +28,23 @@ layout: default
       <a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Detailed directions       to Hokkaido University</a><br>
       <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-%E8%8B%B1%E8%AA%9E%E7%89%88%E3%82%       AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9C%80%E7%B5%82.pdf">Campus Guide          Map</a></p>
 
-  <h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences       Building</h3>
+  <h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences Building</h3>
   <hr>
   <p><strong>Shuttle Bus</strong><br>
     A free campus shuttle service operates during semester from Monday to Friday (excluding public       holidays.) Please be aware that a shuttle bus can carry only approximately 20 passengers.<br> 
     The route begins on the western façade of the Administration Building, passing through the main spine of       the campus extending to the Northern Campus area before coming back on the same route.<br>
     Please use <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a> and click ‘Shuttle Bus        Stops’ from the menu located on the right hand-side of the screen.<br>
-    Link to the <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">timetable</a> for shuttle bus.</p>
+   <ul>
+      <li>Link to the <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">timetable</a> for shuttle bus.
+      </li>
+   </ul>
+    </p>
+    
+
+  <h3 id="location">4. Sapporo Travel Guide </h3>
+  <hr>    
+  <p>The following URL provides the tourism guide to Sapporo with useful travel information such as tourist information on attractions, events, shopping and dining, street maps and so on.<br>  
+  <a href="http://www.welcome.city.sapporo.jp/?lang=en">http://www.welcome.city.sapporo.jp/?lang=en</a></p>
 
 </div>
 
