@@ -25,8 +25,14 @@ layout: default
   <h3 id="location">2. From Sapporo Station to Hokkaido University</h3>
     <p><strong>Walking</strong><br>
       Approximately 7 minites walk from Sapporo Station North Exit to the main gate of Hokkaido University.<br>
-      <a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Detailed directions to Hokkaido University</a><br>
-      <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-%E8%8B%B1%E8%AA%9E%E7%89%88%E3%82%       AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9C%80%E7%B5%82.pdf">Campus Guide Map</a></p>
+      <ul>
+         <li>
+      <a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Detailed directions to Hokkaido University</a>
+         </li>
+         <li>
+      <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-%E8%8B%B1%E8%AA%9E%E7%89%88%E3%82%       AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9C%80%E7%B5%82.pdf">Campus Guide Map</a>
+      </li>
+      </p>
       <br>
 
   <h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences Building</h3>
