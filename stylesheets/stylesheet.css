@@ -459,13 +459,21 @@ form.workshop > table{
     width: 640px;
 }
 
-.globalNav_ul {
+/*.globalNav_ul {
     display: table;
     width: 94%;
     height: 45px;
     float: left;
     table-layout: fixed;
     overflow: visible;
+}*/
+
+.globalNav_ul{
+  *zoom: 1;
+  list-style-type: none;
+  width: 640px;
+  margin: 5px auto 30px;
+  padding: 0;
 }
 
 .globalNav_ul:before, .globalNav_ul:after{
