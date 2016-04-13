@@ -509,6 +509,14 @@ form.workshop > table{
 
 .globalNav_ul li ul li{
   width: 100%;
+  overflow: hidden;
+  height: 0;
+  transition:.2s;
+}
+
+.globalNav_ul li:hover ul li{
+  overflow: visible;
+  height: 38px;
 }
 
 .globalNav_ul li ul a{
