@@ -468,11 +468,70 @@ form.workshop > table{
     overflow: visible;
 }
 
-.globalNavItem {
+.globalNav_ul:before, .globalNav_ul:after{
+    content: "";
+    display: table;
+}
+
+.globalNav_ul:after{
+    clear: both;
+}
+
+.globalNav_ul li{
+  position: relative;
+  width: 20%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.globalNav_ul li a{
+  display: block;
+  margin: 0;
+  padding: 15px 0 11px;
+  background: #8a9b0f;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.globalNav_ul li ul{
+  list-style: none;
+  position: absolute;
+  z-index: 9999;
+  top: 100%;
+  left: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.globalNav_ul li ul li{
+  width: 100%;
+}
+
+.globalNav_ul li ul a{
+  padding: 13px 15px;
+  border-top: 1px solid #7c8c0e;
+  background: #6e7c0c;
+  text-align: left;
+}
+
+.globalNav_ul li:hover > a{
+  background: #6e7c0c;
+}
+
+.globalNav_ul li a:hover{
+  background: #616d0b;
+}
+
+
+/*.globalNavItem {
     display: table-cell;
     height: 45px;
     list-style: none;
-}
+}*/
 
 .globalNavItem_group {
     position: relative;
