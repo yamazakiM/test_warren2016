@@ -549,12 +549,12 @@ form.workshop > table{
     list-style: none;
 }*/
 
-.globalNavItem_group {
+/*.globalNavItem_group {
     position: relative;
     height: 45px;
-}
+}*/
 
-.globalNavItem_btn {
+/*.globalNavItem_btn {
     border-bottom: 2px solid #eee;
     color: #787878;
     display: block;
@@ -660,6 +660,7 @@ form.workshop > table{
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+*/
 
 .topMainVis {
     position: relative;
