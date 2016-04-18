@@ -423,7 +423,7 @@ html {
 }
 
 li.dropdown{
-    font-size: 13px;
+    font-size: 1px;
 }
 
 .globalNav{
@@ -499,7 +499,7 @@ form.workshop > table{
   margin: 0;
   padding: 15px 0 11px;
   color: #787878;
-  font-size: 12px;
+  font-size: 11px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -520,6 +520,7 @@ form.workshop > table{
   height: 0;
   transition:.2s;
   background-color: #f2f1ef;
+  line-height: 1.2;
 }
 
 .globalNav_ul li:hover ul li{
