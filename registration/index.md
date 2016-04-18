@@ -6,7 +6,6 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
   <h3>Registration and Abstract</h3>
-  <hr>
  <div class="register">
   <h4 class="registration">Registration</h4>
   <ul>
@@ -62,7 +61,7 @@ layout: default
   </ul>
 </div>  
 <br>
-<div class="visa">
+<!--<div class="visa">
  <h3>Apply for Visa</h3>
   <p>In order to prepare the official documents for you to apply for a Visa, please e-mail us following documents:</p>
   <ul>
@@ -77,7 +76,7 @@ layout: default
   <p>Email documents to: <img class="abstract" alt="warrenworkshop_email.png" src="../images/warrenworkshop_email.png" border="0"></p>
   <p>We will mail the documents to you as soon as they are ready.<br>
 Please make sure to provide us with correct mailing address. </p>
-</div>
+</div>-->
 
 
   </section>
