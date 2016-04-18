@@ -519,22 +519,25 @@ form.workshop > table{
   overflow: hidden;
   height: 0;
   transition:.2s;
+  background-color: #f2f1ef;
 }
 
 .globalNav_ul li:hover ul li{
   overflow: visible;
   height: 45px;
+  background: #f2f1ef;
+  height: 100%;
 }
 
 .globalNav_ul li ul a{
   padding: 11px 11px;
-  border-top: 1px solid #5f9ea0;
   text-align: left;
 }
 
+/*
 .globalNav_ul li:hover > a{
-  background: #6e7c0c;
-}
+  background: #fbfaf8;
+}*/
 
 .globalNav_ul li a:hover{
   background: #fbfaf8;
