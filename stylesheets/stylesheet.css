@@ -529,7 +529,7 @@ form.workshop > table{
   height: 45px;
   background: #f2f1ef;
   height: 100%;
-  border:0.5px outset #787878;
+  border:1px outset #787878;
 }
 
 .globalNav_ul li ul a{
