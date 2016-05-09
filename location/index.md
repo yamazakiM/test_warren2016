@@ -44,6 +44,9 @@ layout: default
    <ul>
       <li><a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">Timetable</a> for shuttle bus.
       </li>
+      <li>
+      <iframe width="450" height="375" src="http://www.oia.hokudai.ac.jp/maps/embed/?place=133" frameborder="0">MAP</iframe>
+      </li>
    </ul>
     </p>
     <br>
