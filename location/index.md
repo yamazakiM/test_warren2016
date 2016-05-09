@@ -11,6 +11,8 @@ layout: default
           Hokkaido University<br>
           <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628,              Japan</a></p>
             <div id="ggmap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.7424234830823!2d141.34175906700744!3d43.0765595             30617565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDA0JzQwLjciTiAxNDHCsDIw             JzI0LjEiRQ!5e0!3m2!1sen!2sjp!4v1442329400468" width="300" height="200" frameborder="0"         style="border:0" allowfullscreen></iframe>
+            <br>
+            <iframe width="450" height="375" src="http://www.oia.hokudai.ac.jp/maps/embed/?place=133" frameborder="0">MAP</iframe>
             </div>
             <br>
             
@@ -43,9 +45,6 @@ layout: default
     Please use <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a> and click ‘Shuttle Bus Stops’ from the menu located on the right hand-side of the screen.<br>
    <ul>
       <li><a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">Timetable</a> for shuttle bus.
-      </li>
-      <li>
-      <iframe width="450" height="375" src="http://www.oia.hokudai.ac.jp/maps/embed/?place=133" frameborder="0">MAP</iframe>
       </li>
    </ul>
     </p>
