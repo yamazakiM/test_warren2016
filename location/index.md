@@ -30,7 +30,7 @@ layout: default
       <a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Detailed directions to Hokkaido University</a>
          </li>
          <li>
-      <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-%E8%8B%B1%E8%AA%9E%E7%89%88%E3%82%       AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9C%80%E7%B5%82.pdf">Campus Guide Map</a>
+      <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-英語版キャンパスマップ最終.pdf">Campus Guide Map</a>
          </li>
       </ul>
       </p>
@@ -42,16 +42,11 @@ layout: default
     The route begins on the western façade of the Administration Building, passing through the main spine of　the campus extending to the Northern Campus area before coming back on the same route.<br>
     Please use <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a> and click ‘Shuttle Bus Stops’ from the menu located on the right hand-side of the screen.<br>
    <ul>
-      <li>Link to the <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">timetable</a> for shuttle bus.
+      <li><a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">Timetable</a> for shuttle bus.
       </li>
    </ul>
     </p>
     <br>
-
- <!-- <h3 id="location">4. Sapporo Travel Guide </h3>
-  <hr>    
-  <p>The following URL provides the tourism guide to Sapporo with useful travel information such as tourist information on attractions, events, shopping and dining, street maps and so on.<br>  
-  URL: <a href="http://www.welcome.city.sapporo.jp/?lang=en">http://www.welcome.city.sapporo.jp/?lang=en</a></p>-->
 
 </div>
 
