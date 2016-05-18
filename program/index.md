@@ -26,114 +26,115 @@ Hokkaido University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hisashi Narimatsu<br>
 09:40 – 09:50&nbsp;&nbsp;&nbsp;&nbsp;Introduction to the Aims of the Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
+09:50 – 10:00&nbsp;&nbsp;&nbsp;&nbsp;History of the Warren Workshop<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vern Reinhold
 </p>
 
 <p><strong>Session 1: Glycobiology</strong><br>
 Chair: TBA</p>
-<p>10:00 – 10:25&nbsp;&nbsp;&nbsp;TBA<br>
+<p>10:00 – 10:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerry Hart<br>
-10:25 – 10:50&nbsp;&nbsp;&nbsp;TBA<br>
+10:25 – 10:50&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Paulson<br>
-10:50 – 11:15&nbsp;&nbsp;&nbsp;TBA<br>
+10:50 – 11:15&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
-11:15 – 11:25&nbsp;&nbsp;&nbsp;Short Talk<br>
-11:25 – 11:40&nbsp;&nbsp;&nbsp;Coffee Break<br>
-11:40 – 12:05&nbsp;&nbsp;&nbsp;TBA<br>
+11:15 – 11:25&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
+11:25 – 11:40&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
+11:40 – 12:05&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiangxin Gu<br>
-12:05 – 12:30&nbsp;&nbsp;&nbsp;TBA<br>
+12:05 – 12:30&nbsp;&nbsp;&nbsp;T&nbsp;BA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atsushi Kuno<br>
-12:30 – 12:40&nbsp;&nbsp;&nbsp;Short Talk<br>
-12:40 – 14:00 &nbsp;&nbsp;&nbsp;Lunch<br>
+12:30 – 12:40&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
+12:40 – 14:00 &nbsp;&nbsp;&nbsp;&nbsp;Lunch<br>
 14:00 – 16:00&nbsp;&nbsp;&nbsp;Poster Session (Even numbers)
 </p>
 <p><strong>Session 2: Analytics</strong><br>
 Chair: TBA</p>
-<p>16:00 – 16:25&nbsp;&nbsp;&nbsp;TBA<br>
+<p>16:00 – 16:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carlito Lebrilla<br>
 16:25 – 16:50&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kay-Hooi Khoo<br>
-16:50 – 17:15&nbsp;&nbsp;&nbsp;TBA<br>
+16:50 – 17:15&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike Tiemeyer<br>
-17:15 - 17:30&nbsp;&nbsp;&nbsp;Coffee Break<br>
-17:30 – 17:55&nbsp;&nbsp;&nbsp;TBA<br>
+17:15 - 17:30&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
+17:30 – 17:55&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicki Packer<br>
-17:55 – 18:20&nbsp;&nbsp;&nbsp;TBA<br>
+17:55 – 18:20&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Niclas Karlsson<br>
 18:20 – 18:30 Short Talk<br>
 18:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
 <br>
 <h3>Thursday August 25, 2016</h3>
 <hr>
-<p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration</p>
+<p>09:00 – 09:30&nbsp;&nbsp;&nbsp; &nbsp;Registration</p>
 <p><strong>Session 3: Analytics</strong><br>
 Chair:TBA</p>
-<p>09:00 – 09:25&nbsp;&nbsp;&nbsp;TBA<br>
+<p>09:00 – 09:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kshitij Khatri<br>
-09:25 – 09:50&nbsp;&nbsp;&nbsp;TBA<br>
+09:25 – 09:50&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erdmann Rapp<br>
-09:50 – 10:15&nbsp;&nbsp;&nbsp;TBA<br>
+09:50 – 10:15&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simon North<br>
-10:15 – 10:40&nbsp;&nbsp;&nbsp; TBA<br>
+10:15 – 10:40&nbsp;&nbsp;&nbsp;&nbsp; TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiroyuki Kaji<br>
-10:40 - 10:50&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
+10:40 - 10:50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
-10:50 – 11:05&nbsp;&nbsp;&nbsp;Coffee Break<br>
-11:05 – 11:30&nbsp;&nbsp;&nbsp;TBA<br>
+10:50 – 11:05&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
+11:05 – 11:30&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ten Feizi<br>
-11:30 – 11:55&nbsp;&nbsp;&nbsp;TBA<br>
+11:30 – 11:55&nbsp;&nbsp;&nbsp;T&nbsp;BA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rob Woods<br>
-11:55 – 12:20 &nbsp;&nbsp;&nbsp;TBA<br>
+11:55 – 12:20 &nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
-12:20 – 12:30 &nbsp;&nbsp;&nbsp;Short Talk<br>
+12:20 – 12:30 &nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
-12:30 – 13:30 &nbsp;&nbsp;&nbsp;Lunch</p>
+12:30 – 13:30 &nbsp;&nbsp;&nbsp;&nbsp;Lunch</p>
 
 <p><strong>Session 4: Bioinformatics</strong><br>
 Chair: TBA</p>
-<p>13:30 – 13:55&nbsp;&nbsp;&nbsp;TBA<br>
+<p>13:30 – 13:55&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gavin Davey<br>
-13:55 – 14:20&nbsp;&nbsp;&nbsp;TBA<br>
+13:55 – 14:20&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matthew Campbell<br>
-14:20 – 14:45&nbsp;&nbsp;&nbsp;TBA<br>
+14:20 – 14:45&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederique Lisacek<br>
-14:45 – 14:55&nbsp;&nbsp;&nbsp;Short Talk<br>
-14:55 – 15:10&nbsp;&nbsp;&nbsp;Coffee Break<br>
-15:10 – 15:35&nbsp;&nbsp;&nbsp;TBA<br>
+14:45 – 14:55&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
+14:55 – 15:10&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
+15:10 – 15:35&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will York<br>
-15:35 – 16:00&nbsp;&nbsp;&nbsp;TBA<br>
+15:35 – 16:00&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
-16:00 – 16:25&nbsp;&nbsp;&nbsp;TBA<br>
+16:00 – 16:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-16:25 – 16:35&nbsp;&nbsp;&nbsp;Short Talk<br>
+16:25 – 16:35&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rene Ranzinger<br>
 16:35 – 18:30&nbsp;&nbsp;&nbsp;Poster (Odd numbers) and Bioinformatics Hands-on Session<br>
 Sapporo Beer Garden on your own
 <br>
 <h3>Friday August 26, 2016</h3>
 <hr>
-<p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration</p>
+<p>09:00 – 09:30&nbsp;&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 5: Glycobiology/Computational Glycobiology</strong><br>
 Chair: TBA</p>
-<p>09:30 – 09:55&nbsp;&nbsp;&nbsp;TBA<br>
+<p>09:30 – 09:55&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henrik Clausen<br>
-09:55 – 10:20&nbsp;&nbsp;&nbsp;TBA<br>
+09:55 – 10:20&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
-10:20 – 10:45&nbsp;&nbsp;&nbsp;TBA<br>
+10:20 – 10:45&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
-10:45 – 11:00&nbsp;&nbsp;&nbsp;Coffee Break<br>
-11:00 – 11:25&nbsp;&nbsp;&nbsp;TBA<br>
+10:45 – 11:00&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
+11:00 – 11:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatsushi Toda<br>
-11:25 – 11:50&nbsp;&nbsp;&nbsp;TBA<br>
+11:25 – 11:50&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tadashi Suzuki<br>
-11:50 – 13:00 &nbsp;&nbsp;&nbsp;Lunch</p>
+11:50 – 13:00 &nbsp;&nbsp;&nbsp;&nbsp;Lunch</p>
 <p><strong>Discussion</strong><br>
 Chair: Kiyoko F. Aoki-Kinoshita</p>
-<p>13:00 – 14:30&nbsp;&nbsp;&nbsp;Open Discussion<br>
-14:30 – 14:45&nbsp;&nbsp;&nbsp;Coffee Break<br>
-14:45 – 15:30&nbsp;&nbsp;&nbsp;Open Discussion<br>
-15:30 – 16:00&nbsp;&nbsp;&nbsp;Discussion for 7th Warren Workshop in 2018<br>
-16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
+<p>13:00 – 14:30&nbsp;&nbsp;&nbsp;&nbsp;Open Discussion<br>
+14:30 – 14:45&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
+14:45 – 15:30&nbsp;&nbsp;&nbsp;&nbsp;Open Discussion<br>
+15:30 – 16:00&nbsp;&nbsp;&nbsp;&nbsp;Discussion for 7th Warren Workshop in 2018<br>
+16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
 
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
