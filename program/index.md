@@ -32,36 +32,36 @@ Hokkaido University<br>
 
 <p><strong>Session 1: Glycobiology</strong><br>
 Chair: TBA</p>
-<p>10:00 – 10:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerry Hart<br>
-10:25 – 10:50&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Paulson<br>
-10:50 – 11:15&nbsp;&nbsp;&nbsp;&nbsp;"Total cellular glycome analysis: Method development and its application to
+<p>10:00 – 10:25&nbsp;&nbsp;&nbsp;&nbsp;Gerry Hart<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerry Hart<br>-->
+10:25 – 10:50&nbsp;&nbsp;&nbsp;&nbsp;James Paulson<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Paulson<br>-->
+10:50 – 11:15&nbsp;&nbsp;&nbsp;&nbsp;"Total cellular glycome analysis: Method development and its application to<br>
 biological samples"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junichi Furukawa<br>
 11:15 – 11:25&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 11:25 – 11:40&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
 11:40 – 12:05&nbsp;&nbsp;&nbsp;&nbsp;"Distribution of IgG galactosylation as a promising biomarker for cancer screening"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiangxin Gu<br>
-12:05 – 12:30&nbsp;&nbsp;&nbsp;T&nbsp;BA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atsushi Kuno<br>
+12:05 – 12:30&nbsp;&nbsp;&nbsp;&nbsp;Atsushi Kuno<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atsushi Kuno<br>-->
 12:30 – 12:40&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 12:40 – 14:00 &nbsp;&nbsp;&nbsp;&nbsp;Lunch<br>
-14:00 – 16:00&nbsp;&nbsp;&nbsp;Poster Session (Even numbers)
+14:00 – 16:00&nbsp;&nbsp;&nbsp;&nbsp;Poster Session (Even numbers)
 </p>
 <p><strong>Session 2: Analytics</strong><br>
 Chair: TBA</p>
-<p>16:00 – 16:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carlito Lebrilla<br>
-16:25 – 16:50&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kay-Hooi Khoo<br>
-16:50 – 17:15&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike Tiemeyer<br>
+<p>16:00 – 16:25&nbsp;&nbsp;&nbsp;&nbsp;Carlito Lebrilla<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carlito Lebrilla<br>-->
+16:25 – 16:50&nbsp;&nbsp;&nbsp;Kay-Hooi Khoo<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kay-Hooi Khoo<br>-->
+16:50 – 17:15&nbsp;&nbsp;&nbsp;&nbsp;Mike Tiemeyer<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike Tiemeyer<br>-->
 17:15 - 17:30&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
-17:30 – 17:55&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicki Packer<br>
-17:55 – 18:20&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Niclas Karlsson<br>
+17:30 – 17:55&nbsp;&nbsp;&nbsp;&nbsp;Nicki Packer<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicki Packer<br>-->
+17:55 – 18:20&nbsp;&nbsp;&nbsp;&nbsp;Niclas Karlsson<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Niclas Karlsson<br>-->
 18:20 – 18:30&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 18:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
 <br>
@@ -72,19 +72,19 @@ Chair: TBA</p>
 Chair:TBA</p>
 <p>09:00 – 09:25&nbsp;&nbsp;&nbsp;&nbsp;"A split-apply-combine approach towards deconvolving the glycoproteome"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kshitij Khatri<br>
-09:25 – 09:50&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erdmann Rapp<br>
-09:50 – 10:15&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simon North<br>
-10:15 – 10:40&nbsp;&nbsp;&nbsp;&nbsp; "Accurate mass-based large-scale analysis of glycosylation site-specific glycan heterogeneity"<br>
+09:25 – 09:50&nbsp;&nbsp;&nbsp;&nbsp;Erdmann Rapp<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erdmann Rapp<br>-->
+09:50 – 10:15&nbsp;&nbsp;&nbsp;&nbsp;Simon North<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simon North<br>-->
+10:15 – 10:40&nbsp;&nbsp;&nbsp;&nbsp; "Accurate mass-based large-scale analysis of glycosylation site-specific glycan<br> heterogeneity"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiroyuki Kaji<br>
 10:40 - 10:50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
 10:50 – 11:05&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
-11:05 – 11:30&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ten Feizi<br>
-11:30 – 11:55&nbsp;&nbsp;&nbsp;T&nbsp;BA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rob Woods<br>
+11:05 – 11:30&nbsp;&nbsp;&nbsp;&nbsp;Ten Feizi<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ten Feizi<br>-->
+11:30 – 11:55&nbsp;&nbsp;&nbsp;&nbsp;Rob Woods<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rob Woods<br>-->
 11:55 – 12:20 &nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
 12:20 – 12:30 &nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
@@ -93,23 +93,24 @@ Chair:TBA</p>
 
 <p><strong>Session 4: Bioinformatics</strong><br>
 Chair: TBA</p>
-<p>13:30 – 13:55&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gavin Davey<br>
-13:55 – 14:20&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matthew Campbell<br>
-14:20 – 14:45&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederique Lisacek<br>
+<p>13:30 – 13:55&nbsp;&nbsp;&nbsp;&nbsp;Gavin Davey<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gavin Davey<br>-->
+13:55 – 14:20&nbsp;&nbsp;&nbsp;&nbsp;Matthew Campbell<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matthew Campbell<br>-->
+14:20 – 14:45&nbsp;&nbsp;&nbsp;&nbsp;Frederique Lisacek<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederique Lisacek<br>-->
 14:45 – 14:55&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 14:55 – 15:10&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
-15:10 – 15:35&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will York<br>
-15:35 – 16:00&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
-16:00 – 16:25&nbsp;&nbsp;&nbsp;&nbsp;"GRITS Toolbox – An extendible software platform for the processing and archiving of glycomics data"<br>
+15:10 – 15:35&nbsp;&nbsp;&nbsp;&nbsp;Will York<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will York<br>-->
+15:35 – 16:00&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>-->
+16:00 – 16:25&nbsp;&nbsp;&nbsp;&nbsp;"GRITS Toolbox – An extendible software platform for the processing and archiving<br>
+of glycomics data"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rene Ranzinger<br>
 16:25 – 16:35&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rene Ranzinger<br>
-16:35 – 18:30&nbsp;&nbsp;&nbsp;Poster (Odd numbers) and Bioinformatics Hands-on Session<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
+16:35 – 18:30&nbsp;&nbsp;&nbsp;&nbsp;Poster (Odd numbers) and Bioinformatics Hands-on Session<br>
 Sapporo Beer Garden on your own
 <br>
 <h3>Friday August 26, 2016</h3>
@@ -117,15 +118,16 @@ Sapporo Beer Garden on your own
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 5: Glycobiology/Computational Glycobiology</strong><br>
 Chair: TBA</p>
-<p>09:30 – 09:55&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henrik Clausen<br>
-09:55 – 10:20&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhang Yan<br>
-10:20 – 10:45&nbsp;&nbsp;&nbsp;&nbsp;"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and cellular signaling"<br>
+<p>09:30 – 09:55&nbsp;&nbsp;&nbsp;&nbsp;Henrik Clausen<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henrik Clausen<br>-->
+09:55 – 10:20&nbsp;&nbsp;&nbsp;&nbsp;Zhang Yan<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhang Yan<br>-->
+10:20 – 10:45&nbsp;&nbsp;&nbsp;&nbsp;"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and cellular<br>
+signaling"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jianguo Gu<br>
 10:45 – 11:00&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
-11:00 – 11:25&nbsp;&nbsp;&nbsp;&nbsp;TBA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatsushi Toda<br>
+11:00 – 11:25&nbsp;&nbsp;&nbsp;&nbsp;Tatsushi Toda<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatsushi Toda<br>-->
 11:25 – 11:50&nbsp;&nbsp;&nbsp;&nbsp;"Can basic science contribute to cure a human genetic disorder?"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tadashi Suzuki<br>
 11:50 – 13:00 &nbsp;&nbsp;&nbsp;&nbsp;Lunch</p>
