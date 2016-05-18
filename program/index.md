@@ -23,8 +23,13 @@ Hokkaido University<br>
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
 <p><strong>Welcome and Workshop Aims</strong><br>
 09:30 – 09:40&nbsp;&nbsp;&nbsp; Welcome<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hisashi Narimatsu<br>
 09:40 – 09:50&nbsp;&nbsp;&nbsp;Introduction to the Aims of the Meeting<br>
-09:50 – 10:00&nbsp;&nbsp;&nbsp;History of the Warren Workshop</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
+09:50 – 10:00&nbsp;&nbsp;&nbsp;History of the Warren Workshop<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vern Reinhold
+</p>
+
 <p><strong>Session 1</strong><br>
 Chair: TBA</p>
 <p>10:00 – 10:25&nbsp;&nbsp;&nbsp;TBA<br>
