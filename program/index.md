@@ -133,7 +133,7 @@ Hokkaido University<br>
 	Short Talk
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:30</span>
-	<span style="padding-left:60px">Workshop Dinner</span>
+	<span style="padding-left:58px">Workshop Dinner</span>
 </p>
 <br>
 <h3>Thursday August 25, 2016</h3>
