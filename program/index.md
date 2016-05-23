@@ -15,16 +15,19 @@ August 24 - 26, 2016<br>
 <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Frontier Research in Applied Sciences Building</a><br>
 Graduate School and School of Engineering<br>
 Hokkaido University<br>
-<a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a></p>
+<a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a>
+</p>
 <br>
 
 <h3>Wednesday August 24, 2016</h3>
 <hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	Registration &amp; Poster Placement</p>
-<p>
-	<strong>Welcome and Workshop Aims</strong><br>
+	Registration &amp; Poster Placement
+	<br>
+	<br>
+	<strong>Welcome and Workshop Aims</strong>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:40</span>
 		<span style="font-style:italic">Welcome</span>
 	<br>
@@ -41,9 +44,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Vern Reinhold</span>
 </p>
 
-<p><strong>Session 1: Glycobiology</strong><br>
-Chair: TBA</p>
-<p>
+<p><strong>Session 1: Glycobiology</strong>
+	<br>
+	Chair: TBA
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
 	Gerry Hart
 	<!--<span style="font-style:italic">Gerry Hart</span>-->
@@ -137,6 +141,7 @@ Chair: TBA</p>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration
+	<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
 	<br>
