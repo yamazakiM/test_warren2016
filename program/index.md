@@ -22,7 +22,7 @@ Hokkaido University<br>
 <hr>
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
 <p><strong>Welcome and Workshop Aims</strong><br>
-09:30 – 09:40&nbsp;&nbsp;&nbsp;<i>Welcome</i><br>
+09:30 – 09:40&nbsp;&nbsp;&nbsp;Welcome<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hisashi Narimatsu<br>
 09:40 – 09:50&nbsp;&nbsp;&nbsp;&nbsp;Introduction to the Aims of the Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
@@ -81,7 +81,8 @@ Chair:TBA</p>
 10:40 - 10:50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short Talk<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>-->
 10:50 – 11:05&nbsp;&nbsp;&nbsp;&nbsp;Coffee Break<br>
-11:05 – 11:30&nbsp;&nbsp;&nbsp;&nbsp;"Designer arrays for the pinpointing, isolation and structural assignments of natural glycan ligands of biological and medical importance"<br>
+11:05 – 11:30&nbsp;&nbsp;&nbsp;&nbsp;"Designer arrays for the pinpointing, isolation and structural assignments of<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;natural glycan ligands of biological and medical importance"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ten Feizi<br>
 11:30 – 11:55&nbsp;&nbsp;&nbsp;&nbsp;Rob Woods<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rob Woods<br>-->
