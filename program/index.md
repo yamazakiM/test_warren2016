@@ -79,7 +79,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">biomarker for cancer screening"</span>
 	</span>
 	<br>
-	<span style="padding-left:113px">Jiangxin Gu</span>
+	<span style="padding-left:113px">Jianxin Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
 	Atsushi Kuno
@@ -90,7 +90,7 @@ Hokkaido University<br>
 	Short Talk
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:40 – 14:00</span>
-	Lunch Break
+	Lunch
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:00 – 16:00</span>
 	Poster Session (Even numbers)
@@ -155,7 +155,7 @@ Hokkaido University<br>
 	<br>
 	<span style="padding-left:113px">Kshitij Khatri</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
+	<span style="display:inline-blck; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
 	Erdmann Rapp
 	<br>
 	<!--<span style="padding-left:113px">Erdmann Rapp</span>
@@ -194,10 +194,13 @@ Hokkaido University<br>
 	<!--<span style="padding-left:113px">Rob Woods</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
-	TBA
+	<span style="font-style:italic">"Understanding glycan dynamics and interaction by NMR and
 	<br>
-	<!--<span style="padding-left:113px">TBA</span>
-	<br>-->
+	<span style="padding-left:113px">X-ray crystallography"</span>
+	</span>
+	<br>
+	<span style="padding-left:113px">Yoshiki Yamaguchi</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:20 – 12:30</span>
 	Short Talk
 	<br>
@@ -317,8 +320,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:30 – 14:45</span>
 	Coffee Break
-	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 15:30</span>
+		<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 15:30</span>
 	Open Discussion
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:30 – 16:00</span>
