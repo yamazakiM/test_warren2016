@@ -28,17 +28,17 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:40</span>
 		<span style="font-style:italic">Welcome</span>
 	<br>
-	<span style="padding-left:110px">Hisashi Narimatsu</span>
+	<span style="padding-left:113px">Hisashi Narimatsu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:40 – 09:50</span>
 	<span style="font-style:italic">Introduction to the Aims of the Meeting</span>
 	<br>
-	<span style="padding-left:110px">Kiyoko F. Aoki-Kinoshita</span>
+	<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:00</span>
 	<span style="font-style:italic">History of the Warren Workshop</span>
 	<br>
-	<span style="padding-left:110px">Vern Reinhold</span>
+	<span style="padding-left:113px">Vern Reinhold</span>
 </p>
 
 <p><strong>Session 1: Glycobiology</strong><br>
@@ -48,20 +48,20 @@ Chair: TBA</p>
 	Gerry Hart
 	<!--<span style="font-style:italic">Gerry Hart</span>-->
 	<br>
-	<!--<span style="padding-left:110px">Gerry Hart</span>
+	<!--<span style="padding-left:113px">Gerry Hart</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
 	James Paulson
 	<br>
-	<!--<span style="padding-left:110px">ames Paulson</span>
+	<!--<span style="padding-left:113px">ames Paulson</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:15</span>
 	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
 	<br>
-	<span style="padding-left:110px">its application to biological samples"</span>
+	<span style="padding-left:113px">its application to biological samples"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Junichi Furukawa</span>
+	<span style="padding-left:113px">Junichi Furukawa</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:15 – 11:25</span>
 	Short Talk
@@ -69,18 +69,18 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:40</span>
 	Coffee Break
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</strong>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
 	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising
 	<br>
-	<span style="padding-left:110px">biomarker for cancer screening"</span>
+	<span style="padding-left:113px">biomarker for cancer screening"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Jiangxin Gu</span>
+	<span style="padding-left:113px">Jiangxin Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
 	Atsushi Kuno
 	<br>
-	<!--<span style="padding-left:110px">Atsushi Kuno</span>
+	<!--<span style="padding-left:113px">Atsushi Kuno</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:40</span>
 	Short Talk
@@ -100,17 +100,17 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
 	Carlito Lebrilla
 	<br>
-	<!--<span style="padding-left:110px">Carlito Lebrilla</span>
+	<!--<span style="padding-left:113px">Carlito Lebrilla</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
 	Kay-Hooi Khoo
 	<br>
-	<!--<span style="padding-left:110px">Kay-Hooi Khoo</span>
+	<!--<span style="padding-left:113px">Kay-Hooi Khoo</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
 	Mike Tiemeyer
 	<br>
-	<!--<span style="padding-left:110px">Mike Tiemeyer</span>
+	<!--<span style="padding-left:113px">Mike Tiemeyer</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:15 - 17:30</span>
 	Coffee Break
@@ -118,18 +118,18 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:30 – 17:55</span>
 	<span style="font-style:italic">"Reverse glycomics: from glycan structure to gene function"</span>
 	<br>
-	<span style="padding-left:110px">Nicolle Packer</span>
+	<span style="padding-left:113px">Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
 	Niclas Karlsson
 	<br>
-	<!--<span style="padding-left:110px">Niclas Karlsson</span>
+	<!--<span style="padding-left:113px">Niclas Karlsson</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:20 – 18:30</span>
 	Short Talk
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:30</span>
-	<span style="padding-left:110px">Workshop Dinner</span>
+	<span style="padding-left:60px">Workshop Dinner</span>
 </p>
 <br>
 <h3>Thursday August 25, 2016</h3>
@@ -142,31 +142,31 @@ Chair: TBA</p>
 	<br>
 	Chair:TBA
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</strong>	
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
 	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
 	<br>
-	<span style="padding-left:110px">glycoproteome"</span>
+	<span style="padding-left:113px">glycoproteome"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Kshitij Khatri</span>
+	<span style="padding-left:113px">Kshitij Khatri</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</strong>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
 	Erdmann Rapp
 	<br>
-	<!--<span style="padding-left:110px">Erdmann Rapp</span>
+	<!--<span style="padding-left:113px">Erdmann Rapp</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:15</span>
 	Simon North
 	<br>
-	<!--<span style="padding-left:110px">Simon North</span>
+	<!--<span style="padding-left:113px">Simon North</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
-	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation site-specific
+	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation 
 	<br> 
-	<span style="padding-left:110px">glycan heterogeneity"</span>
+	<span style="padding-left:113px">site-specific glycan heterogeneity"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Hiroyuki Kaji</span>
+	<span style="padding-left:113px">Hiroyuki Kaji</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:40 - 10:50</span>
 	Short Talk
@@ -176,27 +176,27 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:05 – 11:30</span>
 	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and structural
 	<br>
-	<span style="padding-left:110px">assignments of natural glycan ligands of biological and medical</span> 
+	<span style="padding-left:113px">assignments of natural glycan ligands of biological and medical</span> 
 	<br>
-	<span style="padding-left:110px">importance"</span>
+	<span style="padding-left:113px">importance"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Ten Feizi</span>
+	<span style="padding-left:113px">Ten Feizi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:30 – 11:55</span>
 	Rob Woods
 	<br>
-	<!--<span style="padding-left:110px">Rob Woods</span>
+	<!--<span style="padding-left:113px">Rob Woods</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
 	TBA
 	<br>
-	<!--<span style="padding-left:110px">TBA</span>
+	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:20 – 12:30</span>
 	Short Talk
 	<br>
-	<!--<span style="padding-left:110px">Short Talk</span>
+	<!--<span style="padding-left:113px">Short Talk</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 13:30</span>
 	Lunch</p>
@@ -209,17 +209,17 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
 	Gavin Davey
 	<br>
-	<!--<span style="padding-left:110px">Gavin Davey</span>
+	<!--<span style="padding-left:113px">Gavin Davey</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:55 – 14:20</span>
 	Matthew Campbell
 	<br>
-	<!--<span style="padding-left:110px">Matthew Campbell</span>
+	<!--<span style="padding-left:113px">Matthew Campbell</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:20 – 14:45</span>
 	Frederique Lisacek
 	<br>
-	<!--<span style="padding-left:110px">Frederique Lisacek</span>
+	<!--<span style="padding-left:113px">Frederique Lisacek</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 14:55</span>
 	Short Talk
@@ -230,25 +230,25 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
 	Will York
 	<br>
-	<!--<span style="padding-left:110px">Will York</span>
+	<!--<span style="padding-left:113px">Will York</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
 	Kiyoko F. Aoki-Kinoshita
 	<br>
-	<!--<span style="padding-left:110px">Kiyoko F. Aoki-Kinoshita</span>
+	<!--<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
 	<span style="font-style:italic">"GRITS Toolbox – An extendible software platform for the processing
 	<br>
-	<span style="padding-left:110px">and archiving of glycomics data"</span>
+	<span style="padding-left:113px">and archiving of glycomics data"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Rene Ranzinger</span>
+	<span style="padding-left:113px">Rene Ranzinger</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:35</span>
 	Short Talk
 	<br>
-	<!--<span style="padding-left:110px">TBA</span>
+	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:35 – 18:30</span>
 	Poster (Odd numbers) and Bioinformatics Hands-on Session
@@ -271,32 +271,32 @@ Chair: TBA</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
 	Henrik Clausen
 	<br>
-	<!--<span style="padding-left:110px">Henrik Clausen</span>
+	<!--<span style="padding-left:113px">Henrik Clausen</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
 	Zhang Yan
 	<br>
-	<!--<span style="padding-left:110px">Zhang Yan</span>
+	<!--<span style="padding-left:113px">Zhang Yan</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:20 – 10:45</span>
 	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and</span>
 	<br>
-	<span style="padding-left:110px">cellular signaling"</span>
+	<span style="padding-left:113px">cellular signaling"</span>
 	</span>
 	<br>
-	<span style="padding-left:110px">Jianguo Gu</span>
+	<span style="padding-left:113px">Jianguo Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:45 – 11:00</span>
 	Coffee Break
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
 	Tatsushi Toda<br>
-	<!--<span style="padding-left:110px">Tatsushi Toda</span>
+	<!--<span style="padding-left:113px">Tatsushi Toda</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:50</span>
 	<span style="font-style:italic">"Can basic science contribute to cure a human genetic disorder?"</span>
 	<br>
-	<span style="padding-left:110px">Tadashi Suzuki</span>
+	<span style="padding-left:113px">Tadashi Suzuki</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:50 – 13:00</span>
 	Lunch
@@ -309,7 +309,7 @@ Chair: TBA</p>
 
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:00 – 14:30</span>
 	Open Discussion
-	<b
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:30 – 14:45</span>
 	Coffee Break
 	<br>
