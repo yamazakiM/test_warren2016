@@ -287,7 +287,7 @@ Hokkaido University<br>
 	<!--<span style="padding-left:113px">Zhang Yan</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:20 – 10:45</span>
-	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and</span>
+	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and
 	<br>
 	<span style="padding-left:113px">cellular signaling"</span>
 	</span>
@@ -320,7 +320,8 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:30 – 14:45</span>
 	Coffee Break
-		<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 15:30</span>
+	<br>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 15:30</span>
 	Open Discussion
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:30 – 16:00</span>
