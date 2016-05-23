@@ -20,14 +20,24 @@ Hokkaido University<br>
 
 <h3>Wednesday August 24, 2016</h3>
 <hr>
-<p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
+<p><span style="display:inline-block; width=130px; margin-top:10px">09:00 – 09:30</span>
+	Registration &amp; Poster Placement</p>
 <p><strong>Welcome and Workshop Aims</strong><br>
-09:30 – 09:40&nbsp;&nbsp;&nbsp;Welcome<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hisashi Narimatsu<br>
-09:40 – 09:50&nbsp;&nbsp;&nbsp;&nbsp;Introduction to the Aims of the Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiyoko F. Aoki-Kinoshita<br>
-09:50 – 10:00&nbsp;&nbsp;&nbsp;&nbsp;History of the Warren Workshop<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vern Reinhold
+<span style="display:inline-block; width=130px; margin-top:10px">09:30 – 09:40</span>
+<i>Welcome</i>
+<br>
+<span style="padding-left:130px">Hisashi Narimatsu</span>
+<br>
+<span style="display:inline-block; width=130px; margin-top:10px">09:40 – 09:50</span>
+<i>Introduction to the Aims of the Meeting</i>
+<br>
+<span style="padding-left:130px">Kiyoko F. Aoki-Kinoshita</span>
+<br>
+<span style="display:inline-block; width=130px; margin-top:10px">09:50 – 10:00</span>
+<i>History of the Warren Workshop</i>
+<br>
+<span style="padding-left:130px">Vern Reinhold</span>
+Vern Reinhold
 </p>
 
 <p><strong>Session 1: Glycobiology</strong><br>
