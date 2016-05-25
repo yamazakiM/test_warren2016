@@ -6,7 +6,6 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 <h3>Program</h3>
-<hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
 Theme of the Workshop: Finding meaning in the ambiguity of glycan structures</strong></p>
 <p>[DATE]<br>
@@ -20,7 +19,6 @@ Hokkaido University<br>
 <br>
 
 <h3>Wednesday August 24, 2016</h3>
-<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	<span>Registration &amp; Poster Placement</span>
@@ -29,7 +27,7 @@ Hokkaido University<br>
 	<strong>Welcome and Workshop Aims</strong>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:40</span>
-		<span style="font-style:italic">Welcome</span>
+	<span style="font-style:italic">Welcome</span>
 	<br>
 	<span style="padding-left:113px">Hisashi Narimatsu</span>
 	<br>
@@ -78,7 +76,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">biomarker for cancer screening"</span>
 	</span>
 	<br>
-	<span style="padding-left:113px">Jianxin Gu</span>
+	<span style="padding-left:113px">Shifang Ren</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
 	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
@@ -136,7 +134,6 @@ Hokkaido University<br>
 </p>
 <br>
 <h3>Thursday August 25, 2016</h3>
-<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	<span>Registration</span>
@@ -267,7 +264,6 @@ Hokkaido University<br>
 <br>
 
 <h3>Friday August 26, 2016</h3>
-<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	<span>Registration</span>
@@ -336,11 +332,17 @@ Hokkaido University<br>
 	<span style="margin-left:56px">Meeting Adjournment</span>
 </p>
 <br>
+<br>
 
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
 
-<p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
-To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.<br></p>
+<p>
+	Hokkaido University is connected to eduroam, world-wide roaming access service.
+	<br>
+	To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.
+	<br>
+</p>
+<br>
 <br>
 
  </section>
