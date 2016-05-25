@@ -49,16 +49,15 @@ Hokkaido University<br>
 	Chair: TBA
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
-	Gerry Hart
-	<!--<span style="font-style:italic">Gerry Hart</span>-->
+	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
 	<br>
-	<!--<span style="padding-left:113px">Gerry Hart</span>
-	<br>-->
+	<span style="padding-left:113px">Gerald Hart</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
-	James Paulson
+	<span style="font-style:italic">"HIV glycosylation"</span>
 	<br>
-	<!--<span style="padding-left:113px">ames Paulson</span>
-	<br>-->
+	<span style="padding-left:113px">James Paulson</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:15</span>
 	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
 	<br>
@@ -82,10 +81,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Jianxin Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
-	Atsushi Kuno
+	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
 	<br>
-	<!--<span style="padding-left:113px">Atsushi Kuno</span>
-	<br>-->
+	<span style="padding-left:113px">Atsushi Kuno</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:40</span>
 	Short Talk
 	<br>
@@ -220,10 +219,10 @@ Hokkaido University<br>
 	<!--<span style="padding-left:113px">Gavin Davey</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:55 – 14:20</span>
-	Matthew Campbell
+	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin glyco-atlas"</span>
 	<br>
-	<!--<span style="padding-left:113px">Matthew Campbell</span>
-	<br>-->
+	<span style="padding-left:113px">Matthew Campbell</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:20 – 14:45</span>
 	Frederique Lisacek
 	<br>
@@ -298,9 +297,13 @@ Hokkaido University<br>
 	Coffee Break
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
-	Tatsushi Toda<br>
-	<!--<span style="padding-left:113px">Tatsushi Toda</span>
-	<br>-->
+	<span style="font-style:italic">"Identification of a post-translational modification with ribitol-phosphate
+	<br> 
+	<span style="padding-left:113px">and its defect in muscular dystrophy"</span>
+	</span>
+	<br>
+	<span style="padding-left:113px">Tatsushi Toda</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:50</span>
 	<span style="font-style:italic">"Can basic science contribute to cure a human genetic disorder?"</span>
 	<br>
