@@ -23,7 +23,7 @@ Hokkaido University<br>
 <hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	Registration &amp; Poster Placement
+	<span>Registration &amp; Poster Placement</span>
 	<br>
 	<br>
 	<strong>Welcome and Workshop Aims</strong>
@@ -46,7 +46,7 @@ Hokkaido University<br>
 
 <p><strong>Session 1: Glycobiology</strong>
 	<br>
-	Chair: TBA
+	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
 	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
@@ -67,10 +67,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Junichi Furukawa</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:15 – 11:25</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:40</span>
-	Coffee Break
+	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
 	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising
@@ -86,37 +86,37 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Atsushi Kuno</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:40</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:40 – 14:00</span>
-	Lunch
+	<span>Lunch</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:00 – 16:00</span>
-	Poster Session (Even numbers)
+	<span>Poster Session (Even numbers)</span>
 </p>
 
 <p>
 	<strong>Session 2: Analytics</strong>
 	<br>
-	Chair: TBA
+	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
-	Carlito Lebrilla
+	<span>Carlito Lebrilla</span>
 	<br>
 	<!--<span style="padding-left:113px">Carlito Lebrilla</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
-	Kay-Hooi Khoo
+	<span>Kay-Hooi Khoo</span>
 	<br>
 	<!--<span style="padding-left:113px">Kay-Hooi Khoo</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
-	Mike Tiemeyer
+	<span>Mike Tiemeyer</span>
 	<br>
 	<!--<span style="padding-left:113px">Mike Tiemeyer</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:15 - 17:30</span>
-	Coffee Break
+	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:30 – 17:55</span>
 	<span style="font-style:italic">"Reverse glycomics: from glycan structure to gene function"</span>
@@ -124,12 +124,12 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
-	Niclas Karlsson
+	<span>Niclas Karlsson</span>
 	<br>
 	<!--<span style="padding-left:113px">Niclas Karlsson</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:20 – 18:30</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:30</span>
 	<span style="padding-left:56px">Workshop Dinner</span>
@@ -139,12 +139,12 @@ Hokkaido University<br>
 <hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	Registration
+	<span>Registration</span>
 	<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
 	<br>
-	Chair:TBA
+	<span>Chair:TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
 	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
@@ -155,12 +155,12 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Kshitij Khatri</span>
 	<br>
 	<span style="display:inline-blck; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
-	Erdmann Rapp
+	<span>Erdmann Rapp</span>
 	<br>
 	<!--<span style="padding-left:113px">Erdmann Rapp</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:15</span>
-	Simon North
+	<span>Simon North</span>
 	<br>
 	<!--<span style="padding-left:113px">Simon North</span>
 	<br>-->
@@ -173,10 +173,11 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Hiroyuki Kaji</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:40 - 10:50</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:05</span>
-	Coffee Break<br>
+	<span>Coffee Break</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:05 – 11:30</span>
 	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and structural
 	<br>
@@ -188,7 +189,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Ten Feizi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:30 – 11:55</span>
-	Rob Woods
+	<span>Rob Woods</span>
 	<br>
 	<!--<span style="padding-left:113px">Rob Woods</span>
 	<br>-->
@@ -201,20 +202,21 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Yoshiki Yamaguchi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:20 – 12:30</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<!--<span style="padding-left:113px">Short Talk</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 13:30</span>
-	Lunch</p>
+	<span>Lunch</span>
+</p>
 
 <p>
 	<strong>Session 4: Bioinformatics</strong>
 	<br>
-	Chair: TBA
+	<span>Chair: TBA
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
-	Gavin Davey
+	<span>Gavin Davey</span>
 	<br>
 	<!--<span style="padding-left:113px">Gavin Davey</span>
 	<br>-->
@@ -224,23 +226,23 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Matthew Campbell</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:20 – 14:45</span>
-	Frederique Lisacek
+	<span>Frederique Lisacek</span>
 	<br>
 	<!--<span style="padding-left:113px">Frederique Lisacek</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 14:55</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:55 – 15:10</span>
-	Coffee Break
+	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	Will York
+	<span>Will York</span>
 	<br>
 	<!--<span style="padding-left:113px">Will York</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
-	Kiyoko F. Aoki-Kinoshita
+	<span>Kiyoko F. Aoki-Kinoshita</span>
 	<br>
 	<!--<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
 	<br>-->
@@ -253,7 +255,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Rene Ranzinger</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:35</span>
-	Short Talk
+	<span>Short Talk</span>
 	<br>
 	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
@@ -268,20 +270,20 @@ Hokkaido University<br>
 <hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	Registration
+	<span>Registration</span>
 	<br>
 	<br>
     <strong>Session 5: Glycobiology/Computational Glycobiology</strong>
     <br>
-	Chair: TBA
+	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
-	Henrik Clausen
+	<span>Henrik Clausen</span>
 	<br>
 	<!--<span style="padding-left:113px">Henrik Clausen</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
-	Zhang Yan
+	<span>Zhang Yan</span>
 	<br>
 	<!--<span style="padding-left:113px">Zhang Yan</span>
 	<br>-->
@@ -294,7 +296,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Jianguo Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:45 – 11:00</span>
-	Coffee Break
+	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
 	<span style="font-style:italic">"Identification of a post-translational modification with ribitol-phosphate
@@ -310,25 +312,25 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Tadashi Suzuki</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:50 – 13:00</span>
-	Lunch
+	<span>Lunch</span>
 	<br>
 
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong>
 	<br>
-	Chair: Kiyoko F. Aoki-Kinoshita
+	<span>Chair: Kiyoko F. Aoki-Kinoshita</span>
 	<br>
 
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:00 – 14:30</span>
-	Open Discussion
+	<span>Open Discussion</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:30 – 14:45</span>
-	Coffee Break
+	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 15:30</span>
-	Open Discussion
+	<span>Open Discussion</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:30 – 16:00</span>
-	Discussion for 7th Warren Workshop in 2018
+	<span>Discussion for 7th Warren Workshop in 2018</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00</span>
 	<span style="margin-left:56px">Meeting Adjournment</span>
