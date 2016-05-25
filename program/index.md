@@ -132,7 +132,7 @@ Hokkaido University<br>
 	Short Talk
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:30</span>
-	<span style="padding-left:58px">Workshop Dinner</span>
+	<span style="padding-left:56px">Workshop Dinner</span>
 </p>
 <br>
 <h3>Thursday August 25, 2016</h3>
@@ -331,7 +331,7 @@ Hokkaido University<br>
 	Discussion for 7th Warren Workshop in 2018
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00</span>
-	<span style="margin-left:60px">Meeting Adjournment</span>
+	<span style="margin-left:56px">Meeting Adjournment</span>
 </p>
 <br>
 
