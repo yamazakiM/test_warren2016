@@ -234,7 +234,7 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	<span>Will York</span>
+	<span>William York</span>
 	<br>
 	<!--<span style="padding-left:113px">Will York</span>
 	<br>-->
