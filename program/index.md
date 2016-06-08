@@ -1,4 +1,3 @@
-
 ---
 title: program
 layout: default
