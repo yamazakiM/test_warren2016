@@ -31,7 +31,7 @@ layout: default
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
    &nbsp;- MS Word template file for <strong>oral</strong> and <strong>poster</strong> session.<br>
-   <a href="{{site.url}}/images/AbstractTemplate.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form (Oral, Poster)">
+   <a href="{{site.url}}/images/AbstractTemplate_Oral,Poster.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form (Oral, Poster)">
    </a>
    <br>
    <br>
