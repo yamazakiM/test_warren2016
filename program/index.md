@@ -319,7 +319,6 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:50 – 13:00</span>
 	<span>Lunch</span>
 </p>
-	<br>
 
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong>
