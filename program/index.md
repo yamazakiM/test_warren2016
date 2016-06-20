@@ -340,7 +340,6 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00</span>
 	<span style="margin-left:56px">Meeting Adjournment</span>
-</p>
 <br>
 <br>
 
