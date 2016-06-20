@@ -280,7 +280,10 @@ Hokkaido University<br>
 	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
-	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into Lego Toying"</span>
+	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
+	<br> 
+	<span style="padding-left:113px"> Lego Toying"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px">Henrik Clausen</span>
 	<br>
