@@ -216,7 +216,7 @@ Hokkaido University<br>
 <p>
 	<strong>Session 4: Bioinformatics</strong>
 	<br>
-	<span>Chair: TBA
+	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
 	<span>Gavin Davey</span>
@@ -263,7 +263,7 @@ Hokkaido University<br>
 	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:35 – 18:30</span>
-	Poster (Odd numbers) and Bioinformatics Hands-on Session
+	<span>Poster (Odd numbers) and Bioinformatics Hands-on Session</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own</span>
 </p>
@@ -321,7 +321,7 @@ Hokkaido University<br>
 </p>
 
 <p>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong></span>
 	<br>
 	<span>Chair: Kiyoko F. Aoki-Kinoshita</span>
 	<br>
