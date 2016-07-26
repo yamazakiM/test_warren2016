@@ -12,7 +12,19 @@ layout: default
         <p>
           Hokkaido University is connected to eduroam, world-wide roaming access service.
         <br>
-  <!--To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.-->
+        To use wireless LAN system at Hokkaido University, please install <strong>Security Communication RootCA2 Certificate(SCRoot2ca.cer)</strong> on your device in advance.
+        <br>
+        <u>Instractions to install Security Communication RootCA2 Certificate</u>
+          <ul>
+            <li>
+              Go to the following URL;<br>
+              <a href="https://repository.secomtrust.net/SC-Root2/">https://repository.secomtrust.net/SC-Root2/</a>
+            </li> 
+            <li>
+              Click <strong>Security Communication RootCA2 Certificate(SCRoot2ca.cer)</strong> which is indicated in the red frame of the following image of the web page and install.
+            </li>
+              <img class="CA2" src="../images/CA2.gif" border="0" alt="ポスター設置方法" width="355" height="255">
+          </ul> 
         </p>
   </div>
 
