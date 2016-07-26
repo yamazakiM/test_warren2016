@@ -760,6 +760,12 @@ img.posterPlacement{
   box-shadow:none;
 }
 
+img.CA2{
+  display:block;
+  box-shadow:none;
+}
+
+
 #project_theme{
   color:#fff;
   font-size:22px;
