@@ -1,5 +1,5 @@
 ---
-title: registration
+title: For Presenters
 layout: default
 ---
 <!-- MAIN CONTENT -->
@@ -33,7 +33,7 @@ layout: default
       <br>
         Thumbtacks and your number card (see figure below;place it on the top left of your poster) will be provided as follows.
       <br> 
-      <img src="../images/posterPlacement.jpg">
+      <img src="../images/posterPlacement.jpg", width="300px", height="400px" border="none">
     </p>
   </div>  
   
