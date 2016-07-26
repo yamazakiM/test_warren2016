@@ -12,15 +12,15 @@ layout: default
       <br>
         &nbsp;&nbsp;&nbsp;Day 1 (August 24, Wednesday. Poster session: 14:00 to 16:00)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please make sure your poster is up/removed according to the following time:<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;- Poster placement (Odd numbers) during registration 9:00am-9:30am<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;- Poster removal during Session 2 coffee break or before Workshop dinner<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Poster placement (Odd numbers) during registration 9:00am-9:30am<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Poster removal during Session 2 coffee break or before Workshop dinner<br>
       <br>
         <u>Poster Session (Even numbers)</u>
       <br>  
         &nbsp;&nbsp;&nbsp;Day 2 (August 25, Thursday. Poster session: 16:35 to 18:30)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please make sure your poster is up/removed according to the following time:
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;- Poster placement (Even numbers) during registration 9:00am-9:30am<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;- Poster removal after poster session<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Poster placement (Even numbers) during registration 9:00am-9:30am<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Poster removal after poster session<br>
     </p>
 
     <ul>
@@ -33,6 +33,10 @@ layout: default
       <li>
         Please stand by your poster for presentation and discussion during your session.
       </li> 
+      <li>
+        Please prepare a powerpoint slide to describe your poster and copy it to<br>
+        &nbsp;the presentation computer before the start of the session of your lightning talk.
+      </li>
     </ul> 
 
     <p>Note
@@ -72,9 +76,10 @@ layout: default
       </li>
       <li>
         Please prepare a powerpoint slide to describe your software or database and copy it to<br>
-        &nbsp;&nbsp;the presentation computer before the start of thesession of your lightning talk.
+        &nbsp;the presentation computer before the start of thesession of your lightning talk.
       </li>
     </ul> 
+  </div>
 
   </section>
 </div>
