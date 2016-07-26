@@ -33,7 +33,7 @@ layout: default
       <br>
         Thumbtacks and your number card (see figure below;place it on the top left of your poster) will be provided as follows.
       <br> 
-      <img src="../images/posterPlacement.jpg", width="300px", height="400px" border="none">
+      <img src="../images/posterPlacement.jpg" width="150px" height="250px" border="0" alt="ポスター設置方法">
     </p>
   </div>  
   
