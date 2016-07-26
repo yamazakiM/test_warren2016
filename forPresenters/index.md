@@ -35,7 +35,7 @@ layout: default
       </li> 
       <li>
         Please prepare a powerpoint slide to describe your poster and copy it to<br>
-        &nbsp;the presentation computer before the start of the session of your lightning talk.
+        the presentation computer before the start of the session of your lightning talk.
       </li>
     </ul> 
 
@@ -43,7 +43,7 @@ layout: default
       <br>
         Thumbtacks and your number card (see figure below;place it on the top left of your poster) will be provided as follows.
       <br> 
-      <img class="posterPlacement" src="../images/posterPlacement.png" border="0" alt="ポスター設置方法">
+      <img class="posterPlacement" src="../images/posterPlacement.png" border="0" alt="ポスター設置方法" width="340" height="490">
     </p>
   </div>  
 
@@ -76,7 +76,7 @@ layout: default
       </li>
       <li>
         Please prepare a powerpoint slide to describe your software or database and copy it to<br>
-        &nbsp;the presentation computer before the start of thesession of your lightning talk.
+        the presentation computer before the start of thesession of your lightning talk.
       </li>
     </ul> 
   </div>
