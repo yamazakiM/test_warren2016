@@ -754,6 +754,12 @@ img.contact{
   box-shadow:none;
 }
 
+img.posterPlacement{
+  display:block;
+  top:5px;
+  box-shadow:none;
+}
+
 #project_theme{
   color:#fff;
   font-size:22px;
