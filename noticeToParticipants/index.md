@@ -16,11 +16,16 @@ layout: default
         </p>
 
         <p>
-        <u>Instractions to install Security Communication RootCA2 Certificate</u><br>
-           &nbsp;&nbsp;&nbsp;<strong>STEP1.</strong>&nbsp;Go to the following URL;<br>
-           <span style="padding-left:110px"><a href="https://repository.secomtrust.net/SC-Root2/">https://repository.secomtrust.net/SC-Root2/</a><br>
-           &nbsp;&nbsp;&nbsp;<strong>STEP2.</strong>&nbsp;Click <strong>Security Communication RootCA2 Certificate(SCRoot2ca.cer)</strong> which is indicated in<br> 
-           <span style="padding-left:110px">the red frame of the following image of the web page and install.<br>
+        <u>Instractions to install Security Communication RootCA2 Certificate</u>
+        <br>
+           &nbsp;&nbsp;&nbsp;<strong>STEP1.</strong>&nbsp;Go to the following URL;
+           <br>
+           <span style="padding-left:50px"><a href="https://repository.secomtrust.net/SC-Root2/">https://repository.secomtrust.net/SC-Root2/</a></span>
+            <br>
+           &nbsp;&nbsp;&nbsp;<strong>STEP2.</strong>&nbsp;Click <strong>Security Communication RootCA2 Certificate(SCRoot2ca.cer)</strong> which is indicated in
+           <br> 
+           <span style="padding-left:50px">the red frame of the following image of the web page and install.</span>
+            <br>
            <img class="CA2" src="../images/CA2.gif" border="0" alt="CA2証明書" width="473" height="483">
         </p>
   </div>
