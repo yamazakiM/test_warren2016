@@ -148,7 +148,7 @@ Hokkaido University<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
 	<br>
-	<span>Chair:Michael Tiemeyer, Kay-Hooi Khoo</span>
+	<span>Chair: Michael Tiemeyer, Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
 	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
