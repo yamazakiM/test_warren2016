@@ -487,7 +487,7 @@ form.workshop > table{
 
 .globalNav_ul li{
   position: relative;
-  width: 16%;
+  width: 15%;
   float: left;
   margin: 0;
   padding: 0;
@@ -499,7 +499,7 @@ form.workshop > table{
   margin: 0;
   padding: 17px 0 13px;
   color: #787878;
-  font-size: 10px;
+  font-size: 11px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -535,8 +535,6 @@ form.workshop > table{
 .globalNav_ul li ul a{
   padding: 8px;
   text-align: left;
-  display:block;
-  font-size: 10px;
 }
 
 /*
@@ -670,6 +668,50 @@ form.workshop > table{
     transform: rotate(90deg);
 }
 
+/*0818追加*/
+.globalNavItem_sub {
+    display: none;
+    position: absolute;
+    width: 170px;
+    left: 0;
+    top: 45px;
+    margin: 0;
+    padding: 0;
+    background: #F2F1EF;
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.25);
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.25);
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.globalNavItem_sub > li {
+    display: block;
+    list-style: none;
+    border-bottom: #ccc;
+}
+
+.globalNavItem_sub > li > a {
+    color: #787878;
+    display: table-cell;
+    width: 150px;
+    text-align: left;
+    padding: 10px;
+    font-weight: normal;
+    text-decoration: none;
+    vertical-align: middle;
+    border-bottom: solid 1px #ccc;
+    white-space: normal;
+    line-height: 1.1;
+    font-weight: bold;
+}
+
+.globalNavItem_sub > li > a:hover, .globalNavItem_sub > li > a:focus {
+    background: #fbfaf8;
+    color: #660098;
+}
+/*ここまで追加*/
 
 .topMainVis {
     position: relative;
@@ -951,6 +993,7 @@ ul.globalNav_ul{
   min-width:300px;
   max-width:460px;
 }*/
+
 
 .topMainVis{
   max-width: 100%;
