@@ -264,10 +264,6 @@ form {
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
-.globalNavItem_group {
-    position: relative;
-    height: 45px;
-}
 
 .outer {
   width: 100%;
@@ -565,7 +561,8 @@ form.workshop > table{
     height: 45px;
 }*/
 
-/*.globalNavItem_btn {
+/*08182再表示*/
+.globalNavItem_btn {
     border-bottom: 2px solid #eee;
     color: #787878;
     display: block;
@@ -645,7 +642,8 @@ form.workshop > table{
     background: #fbfaf8;
     color: #5f9ea0;
 }
-*/
+/*ここまで再表示*/
+
 .globalNavItem_btn-pulldown {
     position: relative;
     padding: 0 15px 0 0;
@@ -716,6 +714,7 @@ form.workshop > table{
     color: #660098;
 }*/
 /*ここまで追加*/
+
 
 .topMainVis {
     position: relative;
