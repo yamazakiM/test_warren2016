@@ -669,7 +669,8 @@ form.workshop > table{
 }
 
 /*0818追加*/
-.globalNavItem_sub {
+/*.globalNavItem_sub {*/
+  ul.dropdown-menu{
     display: none;
     position: absolute;
     width: 170px;
@@ -686,13 +687,13 @@ form.workshop > table{
     font-weight: bold;
 }
 
-.globalNavItem_sub > li {
+ ul.dropdown-menu > li {
     display: block;
     list-style: none;
     border-bottom: #ccc;
 }
 
-.globalNavItem_sub > li > a {
+ ul.dropdown-menu > li > a {
     color: #787878;
     display: table-cell;
     width: 150px;
@@ -707,7 +708,7 @@ form.workshop > table{
     font-weight: bold;
 }
 
-.globalNavItem_sub > li > a:hover, .globalNavItem_sub > li > a:focus {
+ ul.dropdown-menu > li > a:hover, .globalNavItem_sub > li > a:focus {
     background: #fbfaf8;
     color: #660098;
 }
