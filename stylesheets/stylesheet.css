@@ -535,6 +535,8 @@ form.workshop > table{
 .globalNav_ul li ul a{
   padding: 8px;
   text-align: left;
+  display:block;
+  font-size: 10px;
 }
 
 /*
