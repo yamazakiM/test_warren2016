@@ -5,16 +5,16 @@
        <div id="globalNav_inner clearfix">
             <ul class="globalNav_ul">
                <li class="globalNavItem">
-                 <div class="globalNavItem_group">
+                 <!--<div class="globalNavItem_group">-->
                     <a class="globalNavItem_btn" href="{{site.url}}/">
                       <span class="globalNavItem_text">HOME</span>
                     </a>
-                 </div>
+                 <!--</div>-->
                 </li>
         
                <li class="globalNavItem">
                   <div class="globalNavItem_group">
-                    <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                    <a class="globalNavItem_btn globalNavItem_btn-pulldown" data-toggle="dropdown">
                       <span class="globalNavItem_text">LOCATION</span>
                     </a>
                     <ul class="dropdown-menu globalNavItem_sub">
@@ -45,12 +45,12 @@
                             </a>
                           </li>
                     </ul>
-                  </div>
+                  <!--</div>-->
                </li>
                
                <li class="globalNavItem">
-                 <div class="globalNavItem_group">
-                       <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                 <!--<div class="globalNavItem_group">-->
+                       <a class="globalNavItem_btn globalNavItem_btn-pulldown" data-toggle="dropdown">
                       <span class="globalNavItem_text">PROGRAM</span>
                         </a>
                     <ul class="dropdown-menu globalNavItem_sub">
@@ -73,12 +73,12 @@
                           </a>
                           </li>
                     </ul>-->
-                </div>
                </li>
                
                <li class="globalNavItem">
-                 <div class="globalNavItem_group">
-                  <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                 <!--<div class="globalNavItem_group">-->
+                  <a class="globalNavItem_btn globalNavItem_btn-pulldown"
+                  data-toggle="dropdown">
                     <span class="globalNavItem_text">REGISTRATION</span>
                   </a>
                   <ul class="dropdown-menu globalNavItem_sub">
@@ -95,7 +95,7 @@
                             </a>
                           </li>
                     </ul>
-                 </div>
+                 <!--</div>-->
                </li>
                
                <!--<li class="globalNavItem">
@@ -106,38 +106,20 @@
                </li>-->
                
                <li class="globalNavItem">
-                <div class="globalNavItem_group">
+                <!-- <div class="globalNavItem_group">-->
                   <a class="globalNavItem_btn" href="{{site.url}}/forPresenters">
                    <span class="globalNavItem_text">FOR PRESENTERS</span>
                   </a>
-                 </div>
+                 <!--</div>-->
               </li>
                
                <li class="globalNavItem">
-                <div class="globalNavItem_group">
+                <!-- <div class="globalNavItem_group">-->
                   <a class="globalNavItem_btn" href="{{site.url}}/contacts">
                    <span class="globalNavItem_text">CONTACTS</span>
                   </a>
-                 </div>
+                 <!--</div>-->
               </li>
          </ul>
       </div>
    </nav>
-   
-   <!-- jQueryプラグイン「doubletaptogo.js」をドロップダウンメニューのhtmlコード以下で読み込む-->
-<script src="doubletaptogo.js"></script>
-
-<!--「#nav li」要素に「ul」要素を持つメニューに適用 -->
-<script>
-$( function()
- {
- $( '#nav li:has(ul)' ).doubleTapToGo();
- });
-</script>
-   
-  <div class="topMainVis">
-       <div class="topMainVis_inner">
-            <h1 id="project_title">Warren Workshop VI 2016</h1>
-            <h4 id="project_theme">Finding meaning in the ambiguity of glycan structures</h4>
-       </div>
-</div>
