@@ -532,10 +532,39 @@ form.workshop > table{
   border:1px outset #787878;
 }
 
-.globalNav_ul li ul a{
+/*0819追加*/ 
+.globalNav li ul a{
   padding: 8px;
   text-align: left;
+  width:108px;
+  height:45px;
 }
+
+.globalNav li ul li ul{/*孫*/
+    top: 0;
+    left: 109px;
+  }
+.globalNav li ul li ul:before {/*孫*/
+    position: absolute;
+    content: "";
+    top: 15px;
+    left: -10px;
+    border: 5px solid transparent;
+    border-left: 5px solid #fff;
+  }
+  .globalNav li ul li ul li:hover > a {/*孫*/
+    background: #afc6e2;
+  }
+.content {
+  width: 524px;
+  height: 200px;
+  background: #eee;
+  margin: 0 auto;
+  padding: 10px;
+}
+/*↑追加終了*/
+
+.globalNav_ul li:hover> ul>li
 
 /*
 .globalNav_ul li:hover > a{
