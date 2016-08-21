@@ -1019,3 +1019,99 @@ ul.globalNav_ul{
 }
  
 /* スマホ向けここまで */ }
+
+
+
+
+
+#menu {
+ position: relative;
+ width: 100%;
+ padding-left: 0px;
+ height: 40px;
+ background: #343838;/*グローバルメニュー背景色*/
+}
+.menu-inner{
+ width: 968px;
+ margin: 0 auto;
+ height: 40px;
+}
+#menu li {
+ list-style-type: none;
+ float: left;
+ height: 40px;
+ text-align: left;
+}
+#menu li a {
+ padding-left: 15px;
+ padding-right: 15px;
+ display: block;
+ color: #ffffff;/*グローバルメニュー文字色*/
+ font-size: 80%;
+ font-weight: bold;
+ line-height: 40px;
+}
+#menu li:hover a {
+ color: #00DFFC;
+ background: #ffffff;
+ transition: all .5s;
+}
+
+.menu-toggle{
+ display: none;
+} 
+
+/*パソコン１カラム*/
+@media screen and (max-width:968px){
+    .menu-inner{
+        width: 768px;
+    }
+}
+
+/*タブレット*/
+@media screen and (max-width:768px){
+ #top-editarea{
+  height: initial;
+  background: #343838;/*MENU背景色*/
+  text-align: right;/*MENUの文字の位置*/
+  width: 100%;
+ }
+ .menu-toggle{
+  color: #ffffff;/*MENUの文字色*/
+  display: inline-block;
+  padding: 5px;
+  margin: 3px;
+ }
+ #menu {
+  width: 100%;
+  display: none;
+  height: initial;
+  padding: 0;
+  margin: 0;
+  
+ }
+ .menu-inner{
+  width: 100%;
+  height: initial;
+  position: static;
+  margin: 0;
+ }
+ #menu li{
+  float: none;
+  height: 35px;
+  width: 100%;
+  list-style-type: none;
+  background: #00DFFC;/*リスト文字の背景色*/
+  margin: 0 auto;
+  text-align: left;/*リストの文字の位置*/
+ }
+ #menu li a {
+  height: initial;
+  color: #343838;/*リスト文字色*/
+  display: block;
+ }
+ #menu li:hover a{
+  color: initial;
+  background: initial;
+ }
+}
