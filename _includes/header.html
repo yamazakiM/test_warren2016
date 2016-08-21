@@ -41,13 +41,47 @@ $(function(){
     </script>
     
     
-<meta name="description" content="Blueprint: Horizontal Drop-Down Menu" />
-		<meta name="keywords" content="horizontal menu, microsoft menu, drop-down menu, mega menu, javascript, jquery, simple menu" />
-		<meta name="author" content="Codrops" />
-		<link rel="shortcut icon" href="../favicon.ico">
-		<link rel="stylesheet" type="text/css" href="stylesheets/default.css" />
-		<link rel="stylesheet" type="text/css" href="stylesheets/component.css" />
-		<script src="js/modernizr.custom.js"></script>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>
+$(function(){
+    var menu = $('#slideMenu'),
+        closeArea = $('.closeArea'),
+        slideButton = $('.slideButton'),
+        content = $('body'),
+        layer = $('#layer'),
+        menuWidth = menu.outerWidth();                
+    slideButton.click(function(){
+        slideOpen();       
+    });
+    layer.click(function(){
+        slideClose();
+    });
+    closeArea.click(function(){
+        slideClose();
+    });
+    function slideOpen(){
+        menu.animate({'right' : 0 }, 300);
+        layer.show();
+        content.addClass('open');
+    }
+    function slideClose(){
+        menu.animate({'right' : -menuWidth }, 300);
+        layer.hide();
+        content.removeClass('open');
+    };
+    $(window).resize(function(){
+        var win = $(window).width();
+        var p = 960;//１
+        if(win > p){
+            menu.animate({'right' : 0 }, 300);
+        }else{
+            menu.animate({'right' : -menuWidth }, 300);
+            layer.hide();
+        }
+    });
+});   
+</script>
    
     </head>    
         
