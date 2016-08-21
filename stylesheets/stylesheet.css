@@ -1024,181 +1024,167 @@ ul.globalNav_ul{
 
 
 
-.menu:after {
+/*******グローバルナビ********/
+.slideButton {
+    display: none;
+}
+#slideMenu {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    background-color: #444;/*メニューの背景色*/
+}
+#slideMenu > .slideMenuInner {
+    list-style-type: none;
+    width: 960px;/*メニューの横幅を*/
+    height: 100%;
+    margin: 0 auto;
+    padding-left: 0;
+}
+#slideMenu > .slideMenuInner li {
+    position: relative;
+    float: left;
+    height: 100%;
+    text-align: center;
+}
+#slideMenu > .slideMenuInner > li a {
+    display: block;
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    padding-right: 20px;/*文字の左の余白*/
+    padding-left: 20px;/*文字の右の余白*/
+    background-color: #444;/*文字の背景色*/
+    color: #fff;/*文字色*/
+    font-size: 70%;
+    text-decoration: none;
+    line-height: 40px;
+}
+#slideMenu > .slideMenuInner > li:hover a {
+    background-color: #555;/*文字の背景色（マウスホバー時）*/
+}
+/*２階層目*/
+#slideMenu > .slideMenuInner > li > ul.second-level {
+    visibility: hidden;
+    list-style-type: none;
     position: absolute;
-    top: 50%;
-    right: 10px;
-    margin-top: -14px;
-    content: '>';
-    font-size: 14px;
-    font-weight: bold;
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
-    -moz-transition: all, 0.25s, linear;
-    -o-transition: all, 0.25s, linear;
-    -webkit-transition: all, 0.25s, linear;
-    transition: all, 0.25s, linear;
+    z-index: -1;
+    top: 0;
+    margin: 0;
+    padding-left: 0;
 }
- 
-.menu.active:after {
-    -moz-transform: translate(0, 50%);
-    -ms-transform: translate(0, 50%);
-    -webkit-transform: translate(0, 50%);
-    transform: translate(0, 50%);
-    -moz-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
-    -webkit-transform: rotate(-90deg);
-    transform: rotate(-90deg);
+#slideMenu > .slideMenuInner > li:hover > ul.second-level {
+    visibility: visible;
+    z-index: 1;
+    top: 40px;
+    transition: all .3s;
 }
-
-/* General Demo Style */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
-
-@font-face {
-	font-family: 'fontawesome';
-	src:url('../fonts/fontawesome.eot');
-	src:url('../fonts/fontawesome.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/fontawesome.svg#fontawesome') format('svg'),
-		url('../fonts/fontawesome.woff') format('woff'),
-		url('../fonts/fontawesome.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
+#slideMenu > .slideMenuInner > li:hover > ul.second-level > li {
+    width: 200px;
+    height: 40px;
+    text-align: center;
 }
-
-body, html { font-size: 100%; 	padding: 0; margin: 0;}
-
-/* Reset */
-*,
-*:after,
-*:before {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
+#slideMenu > .slideMenuInner > li:hover > ul.second-level > li > a {
+    display: block;
+    background-color: #444;/*子メニューの文字の背景色*/
+    color: #fff;/*子メニューの文字色*/
+    font-size: 70%;
+    text-decoration: none;
+    line-height: 40px;
 }
-
-/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
-.clearfix:before,
-.clearfix:after {
-	content: " ";
-	display: table;
+#slideMenu > .slideMenuInner > li:hover > ul.second-level > li > a:hover {
+    background-color: #555;/*子メニューの背景色（マウスホバー時）*/
 }
-
-.clearfix:after {
-	clear: both;
+/*２階層目ここまで*/
+/******スライドメニュー*******/
+@media screen and (max-width:960px) {/*１*/
+    #menuButton {
+        z-index: 10;
+        width: 100%;
+        background-color: #444;/*メニューバーの色*/
+    }
+    #menuButtonInner {
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        text-align: right;
+    }
+    .slideButton {
+        display: inline-block;
+        margin: 5px;
+        padding: 8px 15px;
+        background-color: #555;/*「MENU」の背景色*/
+        color: #fff;/*「MENU」の文字色*/
+        font-size: 70%;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    #slideMenu {
+        overflow-x: hidden;
+        overflow-y: auto;
+        position: absolute;
+        z-index: 20;
+        top: 0;
+        right: -260px;
+        width: 260px;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    }
+    #slideMenu > .slideMenuInner {
+        position: static;
+        width: 100%;
+        height: 100%;
+    }
+    #slideMenu > .slideMenuInner > li {
+        display: block;
+        position: relative;
+        float: none;
+        width: 100%;
+        height: 40px;
+        margin: 0 auto;
+        border-top: 1px solid #eee;
+        text-align: center;
+    }
+    #slideMenu > .slideMenuInner > li a {
+        display: block;
+        position: relative;
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        background-color: #fff;/*スライドメニューの背景色*/
+        color: #333;/*スライドメニューの文字色*/
+        font-size: 70%;
+        font-weight: bold;
+        line-height: 40px;
+    }
+    #slideMenu > .slideMenuInner > li:hover a {
+        background-color: #fff;/*スライドメニューの背景色（マウスホバー時）*/
+        color: #333;/*スライドメニューの文字色（マウスホバー時）*/
+    }
+    #slideMenu > .slideMenuInner > li > a:active {
+        opacity: .8;
+    }
+    #slideMenu > .slideMenuInner > li:hover > ul.second-level {
+        display: none;
+    }
+    .closeArea {
+        height: 100%;
+        background-color: #333;/*クローズエリア（スライドメニューの下の部分）の色*/
+        cursor: pointer;
+    }
+    #layer {
+        display: none;
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        width: 100%;
+        height: 150%;
+        background-color: #222;/*レイヤーの色*/
+        opacity: .4;/*レイヤーの透明度*/
+        cursor: pointer;
+    }
 }
-
-body {
-    font-family: 'Lato', Calibri, Arial, sans-serif;
-    color: #47a3da;
-}
-
-a {
-	color: #f0f0f0;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #000;
-}
-
-.container > header {
-	width: 90%;
-	max-width: 70em;
-	margin: 0 auto;
-	padding: 0 1.875em 3.125em 1.875em;
-}
-
-.container > header {
-	padding: 2.875em 1.875em 1.875em;
-}
-
-.container > header h1 {
-	font-size: 2.125em;
-	line-height: 1.3;
-	margin: 0;
-	float: left;
-	font-weight: 400;
-}
-
-.container > header span {
-	display: block;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 0.5em;
-	padding: 0 0 0.6em 0.1em;
-}
-
-.container > header nav {
-	float: right;
-}
-
-.container > header nav a {
-	display: block;
-	float: left;
-	position: relative;
-	width: 2.5em;
-	height: 2.5em;
-	background: #fff;
-	border-radius: 50%;
-	color: transparent;
-	margin: 0 0.1em;
-	border: 4px solid #47a3da;
-	text-indent: -8000px;
-}
-
-.container > header nav a:after {
-	content: attr(data-info);
-	color: #47a3da;
-	position: absolute;
-	width: 600%;
-	top: 120%;
-	text-align: right;
-	right: 0;
-	opacity: 0;
-	pointer-events: none;
-}
-
-.container > header nav a:hover:after {
-	opacity: 1;
-}
-
-.container > header nav a:hover {
-	background: #47a3da;
-}
-
-.icon-drop:before, 
-.icon-arrow-left:before {
-	font-family: 'fontawesome';
-	position: absolute;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	line-height: 2;
-	text-align: center;
-	color: #47a3da;
-	-webkit-font-smoothing: antialiased;
-	text-indent: 8000px;
-	padding-left: 8px;
-}
-
-.container > header nav a:hover:before {
-	color: #fff;
-}
-
-.icon-drop:before {
-	content: "\e000";
-}
-
-.icon-arrow-left:before {
-	content: "\f060";
-}
-
-
-
-
 
