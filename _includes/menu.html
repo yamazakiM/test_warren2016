@@ -1,67 +1,131 @@
 <!--Font awesome CDN -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-
-<div id="menuButton">
-<div id="menuButtonInner">
-<span class="slideButton"><i class="blogicon-list lg"></i> MENU<br></span>
-</div>
-</div>
-<div id="slideMenu">
-<ul class="slideMenuInner">
-  <li><a href=''>カテゴリ１</a>
-    <ul class="second-level">
-      <li><a href=''>カテゴリ1-1</a></li>
-      <li><a href=''>カテゴリ1-2</a></li>
-      <li><a href=''>カテゴリ1-3</a></li>
-    </ul>
-  </li>
-  <li><a href=''>カテゴリ２</a>
-    <ul class="second-level">
-      <li><a href=''>カテゴリ2-1</a></li>
-      <li><a href=''>カテゴリ2-2</a></li>
-      <li><a href=''>カテゴリ2-3</a></li>
-    </ul>
-  </li>
-  <li><a href=''>カテゴリ３</a>
-    <ul class="second-level">
-      <li><a href=''>カテゴリ3-1</a></li>
-      <li><a href=''>カテゴリ3-2</a></li>
-      <li><a href=''>カテゴリ3-3</a></li>
-    </ul>
-  </li>
-  <li><a href=''>カテゴリ４</a>
-    <ul class="second-level">
-      <li><a href=''>カテゴリ4-1</a></li>
-      <li><a href=''>カテゴリ4-2</a></li>
-      <li><a href=''>カテゴリ4-3</a></li>
-    </ul>
-  </li>
-  <li><a href=''>カテゴリ５</a>
-    <ul class="second-level">
-      <li><a href=''>カテゴリ5-1</a></li>
-      <li><a href=''>カテゴリ5-2</a></li>
-      <li><a href=''>カテゴリ5-3</a></li>
-    </ul>
-  </li>
-  <li><a href=''>カテゴリ６</a>
-    <ul class="second-level">
-      <li><a href=''>カテゴリ6-1</a></li>
-      <li><a href=''>カテゴリ6-2</a></li>
-      <li><a href=''>カテゴリ6-3</a></li>
-    </ul>
-  </li>
-  <div class="closeArea"></div>
-</ul>
-</div>
-<div style="clear:both;"> </div>
-<div id="layer"> </div>
-
-
+   
+  <nav class="globalNav">       
+       <div id="globalNav_inner clearfix">
+            <ul class="globalNav_ul">
+               <li class="globalNavItem">
+                 <!--<div class="globalNavItem_group">-->
+                    <a class="globalNavItem_btn" href="{{site.url}}/">
+                      <span class="globalNavItem_text">HOME</span>
+                    </a>
+                 <!--</div>-->
+                </li>
+        
+               <li class="globalNavItem">
+                  <!--<div class="globalNavItem_group">-->
+                    <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                      <span class="globalNavItem_text">LOCATION</span>
+                    </a>
+                    <ul class="dropdown-menu globalNavItem_sub">
+                         <li>
+                            <a href="{{site.url}}/location">
+                             ACCESS
+                            </a>
+                          </li>
+                         <li>
+                            <a href=" http://www.welcome.city.sapporo.jp/?lang=en"> 
+                            <!--<a href="{{site.url}}/sapporoTravelGuide">-->
+                            <!-- Sapporo Travel Guide-->
+                             SAPPORO TRAVEL GUIDE
+                            </a>
+                          </li>
+                          <li>
+                            <a href="http://www.oia.hokudai.ac.jp/dhu/">
+                            <!-- Sapporo Travel Guide-->
+                             DISCOVER HOKKAIDO UNIVERSITY
+                            </a>
+                          </li>
+                    <!--</ul>
+                     <ul class="dropdown-menu globalNavItem_sub">-->
+                         <li>
+                            <a href="{{site.url}}/hotels">
+                            <!-- Hotels-->
+                            HOTELS
+                            </a>
+                          </li>
+                    </ul>
+                  <!--</div>-->
+               </li>
+               
+               <li class="globalNavItem">
+                 <!--<div class="globalNavItem_group">-->
+                       <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                      <span class="globalNavItem_text">PROGRAM</span>
+                        </a>
+                    <ul class="dropdown-menu globalNavItem_sub">
+                         <li>
+                            <a href="{{site.url}}/program">
+                              DETAILED PROGRAM
+                            </a>
+                          </li> 
+                    
+                         <li>
+                          <a href="{{site.url}}/noticeToParticipants">
+                          NOTICE TO PARTICIPANTS
+                          </a>
+                          </li>
+                    </ul>                    
+                   <!-- <ul class="dropdown-menu globalNavItem_sub">
+                         <li>
+                          <a href="{{site.url}}/abstract">
+                          Download Abstract
+                          </a>
+                          </li>
+                    </ul>-->
+               </li>
+               
+               <li class="globalNavItem">
+                 <!--<div class="globalNavItem_group">-->
+                  <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                    <span class="globalNavItem_text">REGISTRATION</span>
+                  </a>
+                  <ul class="dropdown-menu globalNavItem_sub">
+                         <li>
+                            <a href="{{site.url}}/registration">
+                            <!-- Register-->
+                             REGISTER &amp;　ABSTRACT SUBMISSION
+                            </a>
+                          </li>
+                         <li>
+                            <a href="{{site.url}}/visa">
+                            <!-- Apply for Visa-->
+                            VISA INFORMATION
+                            </a>
+                          </li>
+                    </ul>
+                 <!--</div>-->
+               </li>
+               
+               <!--<li class="globalNavItem">
+                
+                   <a class="globalNavItem_btn" href="{{site.url}}/hotels">
+                     <span class="globalNavItem_text">HOTELS</span>
+                  </a>
+               </li>-->
+               
+               <li class="globalNavItem">
+                <!-- <div class="globalNavItem_group">-->
+                  <a class="globalNavItem_btn" href="{{site.url}}/forPresenters">
+                   <span class="globalNavItem_text">FOR PRESENTERS</span>
+                  </a>
+                 <!--</div>-->
+              </li>
+               
+               <li class="globalNavItem">
+                <!-- <div class="globalNavItem_group">-->
+                  <a class="globalNavItem_btn" href="{{site.url}}/contacts">
+                   <span class="globalNavItem_text">CONTACTS</span>
+                  </a>
+                 <!--</div>-->
+              </li>
+         </ul>
+      </div>
+   </nav>
+   
   <div class="topMainVis">
        <div class="topMainVis_inner">
             <h1 id="project_title">Warren Workshop VI 2016</h1>
             <h4 id="project_theme">Finding meaning in the ambiguity of glycan structures</h4>
        </div>
 </div>
-
-
