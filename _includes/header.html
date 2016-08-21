@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="/css/github-light.css" media="screen">
     
     <title>{{ page.title }}</title>
-  <!--  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="{{ site.url }}/js/ui.js"></script>
     <script type="text/javascript" src="{{ site.url }}/js/ext_links.js"></script>
     <script type="text/javascript" src="{{ site.url }}/js/header_links.js"></script>
@@ -21,67 +21,8 @@
         $('.slide-trigger').collapsable();
       });
     </script>
-     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-<script src="javascripts/custom.js" type="text/javascript"></script>-->
     <!-- jQuery -->
-  <!--  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script>
-  // page Topフェードイン・アウト
-$(function(){
-    $(window).bind("scroll", function(){
-    // トップから150px以上スクロールしたら
-    if ($(this).scrollTop()>150){ 
-     // ページトップのリンクをフェードインする
-        $("#pageTop").fadeIn();
-    } else { // それ以外は
-     // ページトップのリンクをフェードアウトする
-        $("#pageTop").fadeOut();
-    }
-});
-    </script>-->
-    
-    
-
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-<script>
-$(function(){
-    var menu = $('#slideMenu'),
-        closeArea = $('.closeArea'),
-        slideButton = $('.slideButton'),
-        content = $('body'),
-        layer = $('#layer'),
-        menuWidth = menu.outerWidth();                
-    slideButton.click(function(){
-        slideOpen();       
-    });
-    layer.click(function(){
-        slideClose();
-    });
-    closeArea.click(function(){
-        slideClose();
-    });
-    function slideOpen(){
-        menu.animate({'right' : 0 }, 300);
-        layer.show();
-        content.addClass('open');
-    }
-    function slideClose(){
-        menu.animate({'right' : -menuWidth }, 300);
-        layer.hide();
-        content.removeClass('open');
-    };
-    $(window).resize(function(){
-        var win = $(window).width();
-        var p = 960;//１
-        if(win > p){
-            menu.animate({'right' : 0 }, 300);
-        }else{
-            menu.animate({'right' : -menuWidth }, 300);
-            layer.hide();
-        }
-    });
-});   
-</script>
-   
-    </head>    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js">
+    </script>
+</head>    
         
