@@ -1,13 +1,6 @@
 <!--Font awesome CDN -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
-
-  <div class="topMainVis">
-       <div class="topMainVis_inner">
-            <h1 id="project_title">Warren Workshop VI 2016</h1>
-            <h4 id="project_theme">Finding meaning in the ambiguity of glycan structures</h4>
-       </div>
-</div>
 <div id="menuButton">
 <div id="menuButtonInner">
 <span class="slideButton"><i class="blogicon-list lg"></i> MENU<br></span>
@@ -63,43 +56,12 @@
 <div style="clear:both;"> </div>
 <div id="layer"> </div>
 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-<script>
-$(function(){
-    var menu = $('#slideMenu'),
-        closeArea = $('.closeArea'),
-        slideButton = $('.slideButton'),
-        content = $('body'),
-        layer = $('#layer'),
-        menuWidth = menu.outerWidth();                
-    slideButton.click(function(){
-        slideOpen();       
-    });
-    layer.click(function(){
-        slideClose();
-    });
-    closeArea.click(function(){
-        slideClose();
-    });
-    function slideOpen(){
-        menu.animate({'right' : 0 }, 300);
-        layer.show();
-        content.addClass('open');
-    }
-    function slideClose(){
-        menu.animate({'right' : -menuWidth }, 300);
-        layer.hide();
-        content.removeClass('open');
-    };
-    $(window).resize(function(){
-        var win = $(window).width();
-        var p = 960;//１
-        if(win > p){
-            menu.animate({'right' : 0 }, 300);
-        }else{
-            menu.animate({'right' : -menuWidth }, 300);
-            layer.hide();
-        }
-    });
-});   
-</script>
+
+  <div class="topMainVis">
+       <div class="topMainVis_inner">
+            <h1 id="project_title">Warren Workshop VI 2016</h1>
+            <h4 id="project_theme">Finding meaning in the ambiguity of glycan structures</h4>
+       </div>
+</div>
+
+
