@@ -1075,6 +1075,9 @@ ul.globalNav_ul{
   background: #343838;/*MENU背景色*/
   text-align: right;/*MENUの文字の位置*/
   width: 100%;
+  position: fixed;
+top: 0;
+z-index: 10;
  }
  .menu-toggle{
   color: #ffffff;/*MENUの文字色*/
