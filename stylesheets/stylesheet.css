@@ -1030,11 +1030,14 @@ section.main-content{
   margin-left: 1px;
   margin-right:1px;
 }
-.br-sp { display:none; 
+.br-sp { 
+  display:none; 
 }
-span.name{ display:none; 
+span.name{ 
+  padding-left: 0;
 } 
-span.abstractTitle{ display:none; 
+span.abstractTitle{ 
+  padding-left: 0;
 } 
 
 /* スマホ向けここまで */ }
