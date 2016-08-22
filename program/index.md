@@ -49,7 +49,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
 	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly"</span>
 	<br>
-	<span style="padding-left:113px" class="name">Vernon Reinhold</span>
+	<span style="padding-left:113px" class="br">Vernon Reinhold</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
 	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
