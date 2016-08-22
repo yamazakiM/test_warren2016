@@ -1078,8 +1078,9 @@ ul.globalNav_ul{
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
     text-decoration: none;
-}
+}*/
 /*Change height38px, width67px*/
+/*
 .globalNav_toucan {
     height: 30px;
     width: 60px;
@@ -1194,9 +1195,9 @@ ul.globalNav_ul{
 
 .globalNavItem_btn-pulldown > .globalNavItem_text {
     padding: 0 0 0 0;
-}
+}*/
 /*Change font-size 20px*/
-.globalNavItem_btn-pulldown > .globalNavItem_text:after {
+/*.globalNavItem_btn-pulldown > .globalNavItem_text:after {
     content: '\203a';
     position: absolute;
     top: 8px;
