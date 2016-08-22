@@ -73,10 +73,10 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
-	<span style="font-style:italic">"Total cellular glycome analysis: Method 
+	<span style="font-style:italic">"Total cellular glycome analysis: Method</span> 
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">development and its application to biological 
-	<br clss="br-sp"></span>
+	<span style="padding-left:113px" class="abstractTitle">development and its application to biological</span> 
+	<br clss="br-sp">
 	<span style="padding-left:113px" class="abstractTitle">samples"</span>
 	
 	<br>
@@ -379,7 +379,7 @@ Hokkaido University<br>
 </p>
 
 <p>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong></span>
+	<strong>Discussion</strong>
 	<br>
 	<span>Chair: Kiyoko F. Aoki-Kinoshita</span>
 	<br>
