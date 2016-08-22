@@ -1030,5 +1030,9 @@ ul.globalNav_ul{
   margin-left: 1px;
   margin-right:1px;
 }
+
+@media screen and (max-width: 480px) {
+	.br-sp { display:none; }
+}
  
 /* スマホ向けここまで */ }
