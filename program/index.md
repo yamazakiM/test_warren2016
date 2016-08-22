@@ -20,27 +20,6 @@ Hokkaido University<br>
 
 <h3>Wednesday August 24, 2016</h3>
 <p>
-	<ul>
-		<li>
-			09:00 – 09:30
-		</li>	
-		<li>
-			Registration
-		</li>
-	</ul>
-	<br>
-	<strong>Welcome and Workshop Aims</strong>
-	<br>
-	<ul>
-		<li>
-	        09:30 – 09:40
-	    </li>
-	    <li style="font-style:italic">  
-	    	Welcome
-	    </li>	 
-
-
-</p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	<span>Registration</span>
 	<br>
@@ -66,7 +45,7 @@ Hokkaido University<br>
 <p><strong>Session 1: Glycobiology</strong>
 	<br>
 	<span>Chair: Jianxin Gu, Hisashi Narimatsu</span>
-		<br>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
 	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly "</span>
 	<br>
@@ -90,7 +69,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
 	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">its application to biological samples"</span>
 	</span>
 	<br>
@@ -132,7 +111,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
-	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific features within <br>
+	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific features within <br class="br-sp">
 	<span style="padding-left:113px">multidimensional glycomic analyses"</span>
 	</span>
 	<br>
@@ -148,7 +127,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
 	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for clinical and 
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">biomedical applications"</span>
 	</span>
 	<br>
@@ -173,7 +152,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
 	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">glycoproteome"</span>
 	</span>
 	<br>
@@ -186,15 +165,15 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:15</span>
 	<span style="font-style:italic">"Glycoproteomic studies of Viral, Bacterial and Parasitic
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">glycosylation"</span>
-	<br>
+	<br class="br-sp">
 	</span>
 	<span style="padding-left:113px">Simon North</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
 	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation 
-	<br> 
+	<br class="br-sp"> 
 	<span style="padding-left:113px">site-specific glycan heterogeneity of complex protein mixture"</span>
 	</span>
 	<br>
@@ -210,7 +189,7 @@ Hokkaido University<br>
 	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and structural
 	<br>
 	<span style="padding-left:113px">assignments of natural glycan ligands of biological and medical</span> 
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">importance"</span>
 	</span>
 	<br>
@@ -223,7 +202,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
 	<span style="font-style:italic">"Understanding glycan dynamics and interaction by NMR and
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">X-ray crystallography"</span>
 	</span>
 	<br>
@@ -271,7 +250,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
 	<span style="font-style:italic">"GRITS Toolbox – An extendible software platform for the processing
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">and archiving of glycomics data"</span>
 	</span>
 	<br>
@@ -307,7 +286,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
 	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
-	<br> 
+	<br class="br-sp"> 
 	<span style="padding-left:113px"> Lego Toying"</span>
 	</span>
 	<br>
@@ -320,7 +299,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:20 – 10:45</span>
 	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and
-	<br>
+	<br class="br-sp">
 	<span style="padding-left:113px">cellular signaling"</span>
 	</span>
 	<br>
@@ -331,7 +310,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
 	<span style="font-style:italic">"Identification of a post-translational modification with ribitol-phosphate
-	<br> 
+	<br class="br-sp"> 
 	<span style="padding-left:113px">and its defect in muscular dystrophy"</span>
 	</span>
 	<br>
