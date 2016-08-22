@@ -112,7 +112,7 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
 	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific features within <br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle>multidimensional glycomic analyses"</span>
+	<span style="padding-left:113px" class="abstractTitle">multidimensional glycomic analyses"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Michael Tiemeyer</span>
@@ -128,7 +128,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
 	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for clinical and 
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle>biomedical applications"</span>
+	<span style="padding-left:113px" class="abstractTitle">biomedical applications"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Niclas Karlsson</span>
@@ -153,7 +153,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
 	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle>glycoproteome"</span>
+	<span style="padding-left:113px" class="abstractTitle">glycoproteome"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Kshitij Khatri</span>
@@ -190,7 +190,7 @@ Hokkaido University<br>
 	<br>
 	<span style="padding-left:113px" class="abstractTitle">assignments of natural glycan ligands of biological and medical</span> 
 	<br class="br-sp">
-	<span style="padding-left:113px" "abstractTitle">im"abstractTitle"portance"</span>
+	<span style="padding-left:113px" class="abstractTitle">importance"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Ten Feizi</span>
@@ -203,7 +203,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
 	<span style="font-style:italic">"Understanding glycan dynamics and interaction by NMR and
 	<br class="br-sp">
-	<span style="padding-left:113px" "abstractTitle">X-ray crystallography"</span>
+	<span style="padding-left:113px" class="abstractTitle">X-ray crystallography"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Yoshiki Yamaguchi</span>
