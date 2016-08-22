@@ -76,7 +76,9 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
 	<span style="font-style:italic">"Total cellular glycome analysis: Method 
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">development and its application to biological samples"</span>
+	<span style="padding-left:113px" class="abstractTitle">development and its application to biological 
+	<br clss="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">samples"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Jun-ichi Furukawa</span>
@@ -92,7 +94,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:55</span>
 	<span style="font-style:italic">"Multilectin assay for glycobiomarker 
 	<br class="br-sp">	
-	<span style="font-style:italic">development"</span>
+	<span style="padding-left:113px" class="abstractTitle">development"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Atsushi Kuno</span>
@@ -111,7 +113,8 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
 	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human 
-	<br class="br-sp">milk glycoconjugates"</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">milk glycoconjugates"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Carlito Lebrilla</span>
@@ -119,7 +122,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
 	<span style="font-style:italic">"The necessity of focused clarity amidst the 
 	<br class="br-sp">
-	<span style="font-style:italic">glycomic ambiguity"</span>
+	<span style="padding-left:113px" class="abstractTitle">glycomic ambiguity"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Kay-Hooi Khoo</span>
@@ -127,10 +130,9 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
 	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific 
 	<br class="br-sp">
-	<span style="font-style:italic">features within 
-	multidimensional glycomic 
+	<span style="padding-left:113px" class="abstractTitle">features within multidimensional glycomic 
 	<br class="br-sp">
-	<span style="font-style:italic">analyses"</span>
+	<span style="padding-left:113px" class="abstractTitle">analyses"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Michael Tiemeyer</span>
@@ -141,7 +143,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:30 – 17:55</span>
 	<span style="font-style:italic">"Reverse glycomics: from glycan structure to
 	<br class="br-sp">
-	<span style="font-style:italic">gene function"</span>
+	<span style="padding-left:113px" class="abstractTitle">gene function"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Nicolle Packer</span>
@@ -192,6 +194,7 @@ Hokkaido University<br>
 	<br class="br-sp">
 	<span style="padding-left:113px" class="abstractTitle">Parasitic glycosylation"</span>
 	</span>
+	<br>
 	<span style="padding-left:113px" class="name">Simon North</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
@@ -225,6 +228,7 @@ Hokkaido University<br>
 	<br class="br-sp">	
 	<span style="padding-left:113px" class="abstractTitle">enzyme-glycan accessibility"</span>
 	</span >
+	<br>
 	<span style="padding-left:113px" class="name">Robert Woods</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
@@ -250,12 +254,18 @@ Hokkaido University<br>
 	<span>Chair: Robert Woods, Yoshiki Yamaguchi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
-	<span style="font-style:italic">"Glycologue: a new modeling framework for O-linked glycosylation"</span>
+	<span style="font-style:italic">"Glycologue: a new modeling framework for
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">O-linked glycosylation"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Gavin Davey</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:55 – 14:20</span>
-	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin glyco-atlas"</span>
+	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">glyco-atlas"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Matthew Campbell</span>
 	<br>
@@ -271,14 +281,19 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	<span style="font-style:italic">"Semantic Web Technologies for Integrating Glycan-related Databases"</span>
+	<span style="font-style:italic">"Semantic Web Technologies for Integrating 
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">Glycan-related Databases"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Kiyoko F. Aoki-Kinoshita</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
-	<span style="font-style:italic">"GRITS Toolbox – An extendible software platform for the processing
+	<span style="font-style:italic">"GRITS Toolbox – An extendible software
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">and archiving of glycomics data"</span>
+	<span style="padding-left:113px" class="abstractTitle">platform for the processing and archiving
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">of glycomics data"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Rene Ranzinger</span>
@@ -294,7 +309,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px" class="name">Carsten Kettner</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:30 – 18:30</span>
-	<span>Poster (Even numbers) and Bioinformatics Hands-on Session</span>
+	<span>Poster (Even numbers) and Bioinformatics
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">Hands-on Session</span>
+</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own.<br>
 	Please email organizers if you plan on going by <strong>July 15</strong> as space is limited and reservations are required.
@@ -303,6 +321,7 @@ Hokkaido University<br>
 <br>
 
 <h3>Friday August 26, 2016</h3>
+<p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	<span>Registration</span>
 	<br>
@@ -312,22 +331,25 @@ Hokkaido University<br>
 	<span>Chair: James Paulson, Tadashi Suzuki</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
-	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
-	<br class="br-sp"> 
-	<span style="padding-left:113px" class="abstractTitle"> Lego Toying"</span>
+	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">Glycosciences Into Lego Toying"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Henrik Clausen</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
-	<span style="font-style:italic">"Whether the tumor suppressor p53 has a novel glycosyl-modification"</span>
+	<span style="font-style:italic">"Whether the tumor suppressor p53 has a novel
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle"> glycosyl-modification"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Yan Zhang</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:20 – 10:45</span>
-	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and
+	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">cellular signaling"</span>
+	<span style="padding-left:113px" class="abstractTitle"> transition (EMT) and cellular signaling"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Jianguo Gu</span>
@@ -336,9 +358,11 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
-	<span style="font-style:italic">"Identification of a post-translational modification with ribitol-phosphate
+	<span style="font-style:italic">"Identification of a post-translational modification
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">with ribitol-phosphate and its defect
 	<br class="br-sp"> 
-	<span style="padding-left:113px" class="abstractTitle">and its defect in muscular dystrophy"</span>
+	<span style="padding-left:113px" class="abstractTitle">in muscular dystrophy"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Tatsushi Toda</span>
