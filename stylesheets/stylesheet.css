@@ -912,7 +912,7 @@ h1#project_title, h4#project_theme{
 }*/
 
 
-.br { display:block; }
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -1036,16 +1036,12 @@ section.main-content{
   display:none; 
 }
 span.name{ 
-  display:block;
   padding-left: 0px;
 } 
 span.abstractTitle{ 
-  display: block;
   padding-left: 0px;
 } 
 
-@media screen and (max-width: 480px) {
-.br { display:inline; }
-}
+
 
 /* スマホ向けここまで */ }
