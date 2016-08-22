@@ -1034,10 +1034,10 @@ section.main-content{
   display:none; 
 }
 span.name{ 
-  padding-left: 0px;
+  padding-left: -113px;
 } 
 span.abstractTitle{ 
-  padding-left: 0px;
+  padding-left: -113px;
 } 
 
 /* スマホ向けここまで */ }
