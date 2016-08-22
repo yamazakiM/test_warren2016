@@ -47,18 +47,16 @@ Hokkaido University<br>
 	<span>Chair: Jianxin Gu, Hisashi Narimatsu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
-	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by
+	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by</span> 
 	<br class="br-sp">
 	<span style="padding-left:113px">MS<sup style="vertical-align:super">n</sup> Disassembly"</span>
-	</span> 
 	<br>
 	<span style="padding-left:113px" class="name">Vernon Reinhold</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
-	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription
+	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription</span>
 	<br class="br-sp">
 	<span style="padding-left:113px">by O-GlcNAcylation"</span>
-	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Gerald Hart</span>
 	<br>
@@ -77,25 +75,25 @@ Hokkaido University<br>
 	<span style="font-style:italic">"Total cellular glycome analysis: Method 
 	<br class="br-sp">
 	<span style="padding-left:113px" class="abstractTitle">development and its application to biological 
-	<br clss="br-sp">
+	<br clss="br-sp"></span>
 	<span style="padding-left:113px" class="abstractTitle">samples"</span>
-	</span>
+	
 	<br>
 	<span style="padding-left:113px" class="name">Jun-ichi Furukawa</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
-	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising
+	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising	</span>
 	<br class="br-sp">
 	<span style="padding-left:113px" class="abstractTitle">biomarker for cancer screening"</span>
-	</span>
+
 	<br>
 	<span style="padding-left:113px" class="name">Shifang Ren</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:55</span>
-	<span style="font-style:italic">"Multilectin assay for glycobiomarker 
+	<span style="font-style:italic">"Multilectin assay for glycobiomarker</span>
 	<br class="br-sp">	
 	<span style="padding-left:113px" class="abstractTitle">development"</span>
-	</span>
+	
 	<br>
 	<span style="padding-left:113px" class="name">Atsushi Kuno</span>
 	<br>
@@ -312,7 +310,7 @@ Hokkaido University<br>
 	<span>Poster (Even numbers) and Bioinformatics
 	<br class="br-sp">
 	<span style="padding-left:113px" class="abstractTitle">Hands-on Session</span>
-</span>
+	</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own.<br>
 	Please email organizers if you plan on going by <strong>July 15</strong> as space is limited and reservations are required.
@@ -360,15 +358,18 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
 	<span style="font-style:italic">"Identification of a post-translational modification
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">with ribitol-phosphate and its defect
-	<br class="br-sp"> 
-	<span style="padding-left:113px" class="abstractTitle">in muscular dystrophy"</span>
+	<span style="padding-left:113px" class="abstractTitle">with ribitol-phosphate and its defect in muscular
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">dystrophy"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Tatsushi Toda</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:50</span>
-	<span style="font-style:italic">"Can basic science contribute to cure a human genetic disorder?"</span>
+	<span style="font-style:italic">"Can basic science contribute to cure a human
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">genetic disorder?"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Tadashi Suzuki</span>
 	<br>
