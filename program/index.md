@@ -47,12 +47,18 @@ Hokkaido University<br>
 	<span>Chair: Jianxin Gu, Hisashi Narimatsu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
-	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly"</span>
+	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by
+	<br class="br-sp">
+	<span style="padding-left:113px">MS<sup style="vertical-align:super">n</sup> Disassembly"</span>
+	</span> 
 	<br>
-	<span style="padding-left:113px" class="br">Vernon Reinhold</span>
+	<span style="padding-left:113px" class="name">Vernon Reinhold</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
-	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
+	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription
+	<br class="br-sp">
+	<span style="padding-left:113px">by O-GlcNAcylation"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Gerald Hart</span>
 	<br>
@@ -68,9 +74,9 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
-	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
+	<span style="font-style:italic">"Total cellular glycome analysis: Method 
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">its application to biological samples"</span>
+	<span style="padding-left:113px" class="abstractTitle">development and its application to biological samples"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Jun-ichi Furukawa</span>
@@ -84,7 +90,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px" class="name">Shifang Ren</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:55</span>
-	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
+	<span style="font-style:italic">"Multilectin assay for glycobiomarker 
+	<br class="br-sp">	
+	<span style="font-style:italic">development"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Atsushi Kuno</span>
 	<br>
@@ -101,18 +110,27 @@ Hokkaido University<br>
 	<span>Chair: Kshitij Khatri, Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
-	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human milk glycoconjugates"</span>
+	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human 
+	<br class="br-sp">milk glycoconjugates"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Carlito Lebrilla</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
-	<span style="font-style:italic">"The necessity of focused clarity amidst the glycomic ambiguity"</span>
+	<span style="font-style:italic">"The necessity of focused clarity amidst the 
+	<br class="br-sp">
+	<span style="font-style:italic">glycomic ambiguity"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
-	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific features within <br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">multidimensional glycomic analyses"</span>
+	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific 
+	<br class="br-sp">
+	<span style="font-style:italic">features within 
+	multidimensional glycomic 
+	<br class="br-sp">
+	<span style="font-style:italic">analyses"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Michael Tiemeyer</span>
@@ -121,14 +139,17 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:30 – 17:55</span>
-	<span style="font-style:italic">"Reverse glycomics: from glycan structure to gene function"</span>
+	<span style="font-style:italic">"Reverse glycomics: from glycan structure to
+	<br class="br-sp">
+	<span style="font-style:italic">gene function"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
-	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for clinical and 
+	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">biomedical applications"</span>
+	<span style="padding-left:113px" class="abstractTitle">clinical and biomedical applications"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Niclas Karlsson</span>
@@ -151,30 +172,34 @@ Hokkaido University<br>
 	<span>Chair: Michael Tiemeyer, Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
-	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
+	<span style="font-style:italic">"A split-apply-combine approach towards 	
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">glycoproteome"</span>
+	<span style="padding-left:113px" class="abstractTitle">deconvolving the glycoproteome"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Kshitij Khatri</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
-	<span style="font-style:italic">"xCGE-LIF: A powerful Tool in the Glycoanalytical Toolbox"</span>
+	<span style="font-style:italic">"xCGE-LIF: A powerful Tool in the Glycoanalytical 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">Toolbox"</span>
+	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Erdmann Rapp</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:15</span>
-	<span style="font-style:italic">"Glycoproteomic studies of Viral, Bacterial and Parasitic
+	<span style="font-style:italic">"Glycoproteomic studies of Viral, Bacterial and
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">glycosylation"</span>
-	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">Parasitic glycosylation"</span>
 	</span>
 	<span style="padding-left:113px" class="name">Simon North</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
-	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation 
+	<span style="font-style:italic">"Accurate mass-based large-scale analysis of
 	<br class="br-sp"> 
-	<span style="padding-left:113px" class="abstractTitle">site-specific glycan heterogeneity of complex protein mixture"</span>
+    <span style="padding-left:113px" class="abstractTitle">glycosylation site-specific glycan 
+    <br class="br-sp">	
+    <span style="padding-left:113px" class="abstractTitle">heterogeneity of complex protein mixture"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" classs="name">Hiroyuki Kaji</span>
@@ -186,24 +211,26 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:05 – 11:30</span>
-	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and structural
-	<br>
-	<span style="padding-left:113px" class="abstractTitle">assignments of natural glycan ligands of biological and medical</span> 
+	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">importance"</span>
+	<span style="padding-left:113px" class="abstractTitle">structural assignments of natural glycan ligands 
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">of biological and medical importance"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Ten Feizi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:30 – 11:55</span>
-	<span style="font-style:italic">"Predicting N-glycan processing based on enzyme-glycan accessibility"</span>
-	<br>
+	<span style="font-style:italic">"Predicting N-glycan processing based on
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">enzyme-glycan accessibility"</span>
+	</span >
 	<span style="padding-left:113px" class="name">Robert Woods</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
-	<span style="font-style:italic">"Understanding glycan dynamics and interaction by NMR and
+	<span style="font-style:italic">"Understanding glycan dynamics and interaction 
 	<br class="br-sp">
-	<span style="padding-left:113px" class="abstractTitle">X-ray crystallography"</span>
+	<span style="padding-left:113px" class="abstractTitle">by NMR and X-ray crystallography"</span>	
 	</span>
 	<br>
 	<span style="padding-left:113px" class="name">Yoshiki Yamaguchi</span>
