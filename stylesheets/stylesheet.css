@@ -989,7 +989,7 @@ ul.globalNav_ul{
     font-size: 11px;
   }
 
-#main_content_wrap{
+section.main-content{
   margin-left: 1px;
   margin-right:1px;
 }
@@ -1008,7 +1008,7 @@ ul.globalNav_ul{
     margin-left:100%;
 }
  
-#main_content_wrap{
+section.main-content{
   margin-left: 1px;
   margin-right:1px;
 }
@@ -1026,13 +1026,15 @@ ul.globalNav_ul{
     left:-68px;
     margin-left:100%;
 }
-#main_content_wrap{
+section.main-content{
   margin-left: 1px;
   margin-right:1px;
 }
-
-@media screen and (max-width: 480px) {
-	.br-sp { display:none; }
+.br-sp { display:none; 
 }
- 
+span.name{ display:none; 
+} 
+span.abstractTitle{ display:none; 
+} 
+
 /* スマホ向けここまで */ }
