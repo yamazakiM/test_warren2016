@@ -17,7 +17,10 @@ Graduate School and School of Engineering<br>
 Hokkaido University<br>
 <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a></p>
 <br>
-
+<p>
+    <h3> Posters and Hands-On Presentations </h3>
+  <a href="program/posters">Posters and Hands-on Presenters List</a>
+<p>
 <h3>Wednesday August 24, 2016</h3>
 <hr>
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
